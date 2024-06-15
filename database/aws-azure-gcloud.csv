@@ -1,0 +1,159 @@
+Id,Category,Function,AWS,Azure,Google Cloud
+1,AI and machine learning,AI containers,AWS Deep Learning Containers,GPU support on AKS,Deep Learning Containers
+2,AI and machine learning,AI prediction human review and moderation,Amazon Augmented AI (Amazon A2I),Azure Content Moderator,N/A
+3,AI and machine learning,AI machine images,AWS Deep Learning AMIs,Data Science Virtual Machines,Deep Learning VM Image
+4,AI and machine learning,Chat bot builder,Amazon Lex,"Azure Bot Service, Health Bot, QnA Maker",Dialogflow
+5,AI and machine learning,Data labeling,Amazon SageMaker Ground Truth,Azure Machine Learning data labeling,Vertex Data Labeling
+6,AI and machine learning,"Document extraction, image content analysis",Amazon Textract,"Azure Form Recognizer, Ink Recognizer, Computer Vision, Custom Vision",Vision API
+7,AI and machine learning,"Image and video recognition, indexing",Amazon Rekognition,"Azure Face, Video Indexer",Video AI
+8,AI and machine learning,Inference accelerator,Amazon Elastic Inference,GPUs on AKS,"Cloud TPU, Edge TPU"
+9,AI and machine learning,"Language recognition, sentiment analysis",Amazon Comprehend,"Azure Immersive Reader, Language Understanding, Text Analytics","Cloud Natural Language AI, Healthcare Natural Language AI"
+10,AI and machine learning,Language translation,Amazon Translate,"Speech Translation, Translator","Cloud Translation, Media Translation (beta)"
+11,AI and machine learning,Machine learning hardware,"AWS Inferentia, AWS Trainium (preview*)",FPGA,Cloud TPU
+12,AI and machine learning,Managed machine learning platform,Amazon SageMaker,Azure Machine Learning,"TensorFlow Enterprise, Vertex AI"
+13,AI and machine learning,Notebooks,Amazon EMR Notebooks,"Integrations through Visual Studio, Azure and GitHub",Notebooks
+14,AI and machine learning,Online fraud detection,Amazon Fraud Detector,N/A,reCAPTCHA Enterprise
+15,AI and machine learning,Prediction review and moderation,"Amazon Augmented AI, Amazon SageMaker Clarify",Azure Content Moderator,N/A
+16,AI and machine learning,Recommendation integration,Amazon Personalize,Personalizer,Recommendations AI
+17,AI and machine learning,Speech recognition,Amazon Transcribe,"Speaker Recognition (preview), Speech to Text",Cloud Speech-to-Text API
+18,AI and machine learning,Text-to-speech,Amazon Polly,Text to Speech,Cloud Text-to-Speech API
+19,AI and machine learning,Time-series forecasting,Amazon Forecast,N/A,N/A
+20,AI and machine learning,Vision/speech modeling packaged devices,AWS DeepLens,Azure Kinect DK,N/A
+21,Analytics,Big data processing,Amazon EMR,"Azure Databricks, Azure HDInsight",Dataproc
+22,Analytics,Business analytics,"Amazon QuickSight, Amazon FinSpace","Power BI Embedded, Microsoft Graph Data Connect (preview)","Looker, Google Data Studio"
+23,Analytics,Data lake creation,"Amazon HealthLake (preview), AWS Lake Formation",Azure Data Lake Storage,Cloud Storage
+24,Analytics,Data sharing,"AWS Data Exchange, AWS Lake Formation",Azure Data Share,"Analytics Hub (preview), Cloud Dataprep (partnership with Trifacta)"
+25,Analytics,Data warehousing,Amazon Redshift,Azure Synapse Analytics,BigQuery
+26,Analytics,ETL,"AWS Glue, Amazon Kinesis Data Firehose, Amazon SageMaker Data Wrangler",Azure Data Factory,"Cloud Data Fusion, Dataflow, Dataproc"
+27,Analytics,Hosted Hadoop/Spark,Amazon EMR,Azure HDInsight,Dataproc
+28,Analytics,Managed search,"Amazon CloudSearch, Amazon Elasticsearch Service, Amazon Kendra","Azure Cognitive Search, Bing Search API",Cloud Search
+29,Analytics,Managed Kafka,Amazon Managed Streaming for Apache Kafka,Azure Event Hubs for Apache Kafka,N/A (available through a partnership with Confluent)
+30,Analytics,Real-time data streaming,"Amazon Kinesis Data Analytics, Amazon Kinesis Data Streams",Azure Stream Analytics,"Dataflow, Pub/Sub, Datastream (preview)"
+31,Analytics,"Query service, data exploration","Amazon Athena, Amazon Elasticsearch Service, Amazon Managed Service for Grafana (preview)","SQL Server ML Services, Big Data Clusters (Spark), Data Lake Analytics, SQL Server Analysis Services, Azure Data Explorer",BigQuery
+32,Application integration,API development and management,"Amazon API Gateway, AWS AppSync",Azure API Apps,"API Gateway, Apigee, Cloud Endpoints"
+33,Application integration,Distributed app coordination,"Amazon Simple Workflow Service, AWS Step Functions",Logic Apps,Cloud Tasks
+34,Application integration,"Event routing, third-party integration","Amazon AppFlow, Amazon EventBridge, Amazon Simple Notification Service",Event Grid,Pub/Sub
+35,Application integration,Messaging,"Amazon MQ, Amazon Simple Queue Service","Azure Web PubSub (preview), Queue Storage, Service Bus",Pub/Sub
+36,Application integration,Service discovery,AWS Cloud Map,N/A,N/A
+37,Application integration,Service mesh,AWS App Mesh,Open Service Mesh AKS add-on (preview),Anthos Service Mesh
+38,Application integration,Workflow orchestration,"AWS Data Pipeline, Amazon Managed Workflows for Apache Airflow",Logic Apps,"Cloud Composer, Workflows"
+39,Business applications,Collaboration tool suite,N/A,Microsoft 365,Google Workspace
+40,Business applications,Document sharing and storage,Amazon WorkDocs,Microsoft Word,"Google Docs, Google Workspace Essentials"
+41,Business applications,Email and calendar,Amazon WorkMail,Outlook,Gmail
+42,Business applications,Low-code/no-code,Amazon Honeycode (preview),"Microsoft PowerApps, Project Bonsai (preview)",AppSheet
+43,Business applications,Video calls and chat,Amazon Chime,Microsoft Teams,Google Meet
+44,Business applications,Voice assistant,Alexa for Business,Cortana,Google Assistant
+45,Compute,Autoscaling,AWS EC2 Auto Scaling,"Azure Autoscale, Azure virtual machine scale sets",Managed instance groups (MIGs)
+46,Compute,"Batch scheduling, executing and processing",AWS Batch,Azure Batch,"Batch on GKE (preview), Cloud Scheduler"
+47,Compute,Functions as a service,AWS Lambda,Azure Functions,Cloud Functions
+48,Compute,5G-based infrastructure,AWS Wavelength,Azure Edge Zones,Global Mobile Edge Cloud (GMEC)
+49,Compute,High performance computing cluster management,AWS ParallelCluster,"Azure CycleCloud, Azure FXT Edge Filer",N/A
+50,Compute,VM image builder,EC2 Image Builder,Azure VM Image Builder,N/A
+51,Compute,Isolated servers,Dedicated Instances,Azure Dedicated Host,"Sole-tenant Nodes, Shielded VMs"
+52,Compute,PaaS,"AWS Elastic Beanstalk, Red Hat OpenShift Service on AWS","App Service, Azure Cloud Services, Azure Spring Cloud, Azure Red Hat OpenShift",App Engine
+53,Compute,On-premises/edge devices,"AWS Outposts, AWS Snow Family","Azure Modular Datacenter, Azure Stack Hub, Azure Stack HCI, Azure Stack Edge",N/A
+54,Compute,Quantum computing,Amazon Braket,Azure Quantum (preview),N/A
+55,Compute,Virtual machines,Amazon EC2,Virtual Machines,Compute Engine
+56,Compute,Virtual private server,Amazon Lightsail,N/A,N/A
+57,Compute,VMware integration,VMware Cloud on AWS,Azure VMware Solution,VMware Engine
+58,Containers,Container registry,"Amazon Elastic Container Registry (ECR), ECR Public",Azure Container Registry,"Artifact Registry, Container Registry"
+59,Containers,Managed container service,"AWS Copilot, Amazon Elastic Container Service (ECS), Amazon Elastic Kubernetes Service (EKS)",Azure Kubernetes Service (AKS),Google Kubernetes Engine (GKE)
+60,Containers,Serverless containers,"AWS App Runner, AWS Fargate",Azure Container Instances (ACI),Cloud Run
+61,Cost controls,Long-term commitment discount programs,"EC2 Reserved Instances, Savings Plans","Reservations, Azure Hybrid Benefit","Committed use discounts, sustained use discounts"
+62,Cost controls,"Low-cost, interruptible VMs",EC2 Spot,Azure Spot Virtual Machines,Preemptible Virtual Machines
+63,Cost controls,Optimization tools,"Amazon CodeGuru, Amazon DevOps Guru, AWS Compute Optimizer, AWS Trusted Advisor, AWS Well-Architected Tool","Azure Advisor, Azure Well-Architected Review","Recommender, Network Intelligence Center, Cloud Profiler"
+64,Cost controls,Spending tracker and analysis,"AWS Budgets, AWS Cost Anomaly Detection, AWS Cost Explorer, AWS Cost and Usage Report, Reserved Instance Reporting",Azure Cost Management and Billing,Cost Management
+65,Databases,Blockchain,"Amazon Managed Blockchain, Amazon Quantum Ledger Database (QLDB)","Azure Blockchain Service (preview), Azure Blockchain Development Kit, Azure Blockchain Workbench (preview), Microsoft Azure Confidential Ledger (preview)",N/A
+66,Databases,Caching,"Amazon ElastiCache (Memcached, Redis)","Azure Cache for Redis, Azure HPC Cache",Cloud Memorystore
+67,Databases,NoSQL: Column-family,Amazon Keyspaces (for Apache Cassandra),"Azure Cosmos DB, Azure Managed Instance for Apache Cassandra (preview)",Cloud Bigtable
+68,Databases,NoSQL: Document,"Amazon DocumentDB (with MongoDB compatibility), Amazon DynamoDB",Azure Cosmos DB,"Cloud Firestore, Firebase Realtime Database"
+69,Databases,NoSQL: Graph,Amazon Neptune,Azure Cosmos DB Gremlin API,N/A
+70,Databases,NoSQL: Key-value,"Amazon DynamoDB, Amazon Keyspaces","Azure Cosmos DB, Table storage","Cloud Bigtable, Firestore"
+71,Databases,Relational database management system,"Amazon Aurora, Amazon RDS (MySQL, PostgreSQL, Oracle, SQL Server, MariaDB), Amazon RDS on VMware","Azure Database (MySQL, MariaDB, PostgreSQL), Azure SQL (Database, Edge, Managed Instance)","Cloud SQL (MySQL, PostgreSQL, SQL Server), Cloud Spanner"
+72,Databases,Time-series database,Amazon Timestream,Azure Time Series Insights,Cloud Bigtable
+73,Developer tools,App configuration parameter storage,AWS AppConfig,App Configuration,Cloud Storage
+74,Developer tools,Artifact management,AWS CodeArtifact,"Azure Artifacts, GitHub Packages",Artifact Registry (preview)
+75,Developer tools,Code debugging,AWS X-Ray,Visual Studio Code,"Cloud Debugger, Firebase Crashlytics"
+76,Developer tools,CI/CD,"AWS CodeBuild, AWS CodeDeploy, AWS CodePipeline, AWS CodeStar","Azure Boards, Azure DevOps, Azure Pipelines","Cloud Build, Tekton"
+77,Developer tools,Development kits,"AWS Cloud Development Kit, Amazon Corretto",Azure SDKs,Cloud SDK
+78,Developer tools,IDEs and other tools for interacting with cloud resources,"AWS Cloud9, AWS CLI, AWS CloudShell, Amazon EMR Studio","Azure CLI, Azure PowerShell, Azure Cloud Shell, Visual Studio, Visual Studio Code","Cloud Code, Tools for Eclipse, Tools for PowerShell"
+79,Developer tools,Lab environment,N/A,"Azure Lab Services, Azure DevTest Labs",N/A
+80,Developer tools,Mobile and Web app development,AWS Amplify,"App Service, Mobile Apps, Xamarin with Azure, Web Apps, Static Web Apps",Google Firebase
+81,Developer tools,Private repository,"AWS CodeCommit, AWS Serverless Application Repository",Azure Repos,Cloud Source Repositories
+82,Developer tools,Testing,"AWS Device Farm, AWS Fault Injection Simulator","Visual Studio App Center, Azure Test Plans, Azure Internet Analyzer (preview)",Google Firebase Test Lab
+83,IoT,"Cloud-device connections, data collection and management","AWS IoT Analytics, AWS IoT Core, AWS IoT Device Defender, AWS IoT Device Management, AWS IoT Events, AWS IoT SiteWise","Azure IoT Central, Azure IoT Hub, Azure Defender for IoT, Azure Sphere",Cloud IoT Core
+84,IoT,IoT edge compute,AWS Greengrass,"Azure IoT Edge, Azure Percept (preview)",Edge TPU
+85,IoT,Microcontroller OS,FreeRTOS,Azure RTOS,N/A
+86,IoT,Virtual modeling,AWS IoT Things Graph,Azure Digital Twins,N/A
+87,Management and governance,Automation,"AWS CloudFormation, AWS Proton, AWS OpsWorks","Azure Resource Manager, Azure Automation","Cloud Deployment Manager, Cloud Foundation Toolkit, Cloud Scheduler"
+88,Management and governance,Anomaly detection,CloudWatch Anomaly Detection,Anomaly Detector,Anomaly Detection
+89,Management and governance,Application portfolio and data governance,AWS Service Catalog,"Azure Managed Applications, Azure Blueprints (preview), Azure Purview (preview)","Dataplex, Private Catalog, Service Directory"
+90,Management and governance,Automated Windows Server management,N/A,Azure Automanage (preview),N/A
+91,Management and governance,Configuration management,AWS Config,Azure App Configuration,Cloud Asset Inventory
+92,Management and governance,Health dashboard,Personal Health Dashboard,"Resource Health, Azure Service Health",Cloud Monitoring
+93,Management and governance,Hybrid and multi-cloud management,"Amazon EKS Anywhere (preview), Amazon ECS Anywhere",Azure Arc,"Google Anthos, Network Connectivity Center (preview)"
+94,Management and governance,License management,AWS License Manager,N/A,N/A
+95,Management and governance,Monitoring,"Amazon CloudWatch, Amazon CloudWatch Logs, AWS Transit Gateway Network Manager, Amazon Lookout for Metrics, Amazon Managed Service for Prometheus (preview)","Azure Monitor, Network Watcher, Log Analytics, Azure Metrics Advisor (preview)","Operations, Cloud Operations for GKE (formerly Stackdriver), Network Intelligence Center"
+96,Management and governance,Multi-account management,"AWS Control Tower, AWS Organizations","Azure Management Groups, Azure Lighthouse",N/A
+97,Management and governance,Policy management,AWS Organizations,Azure Policy,Organization Policy Service
+98,Management and governance,Telemetry collection and response,"AWS Systems Manager, AWS Distro for Open Telemetry (preview)",Azure Monitor,Network Telemetry
+99,Management and governance,Web-based user interface,AWS Management Console,Azure Portal,Cloud Console
+100,Migration,Database migration,AWS Database Migration Service,Azure Database Migration Service,Database Migration Service (preview)
+101,Migration,Data transfer appliance,Snow Family,Data Box,Transfer Appliance
+102,Migration,Disaster recovery,CloudEndure Disaster Recovery,Azure Site Recovery,N/A
+103,Migration,Online data transfer,"AWS DataSync, AWS Transfer Family",Azure File Sync,"BigQuery Data Transfer Service, Cloud Data Transfer"
+104,Migration,On-premises application analysis,"AWS Application Discovery Service, Migration Evaluator","Azure Migrate, Movere, Azure Resource Mover",N/A
+105,Migration,On-premises and cloud storage integration,Storage Gateway,StorSimple,N/A (offered by partner Cloudian)
+106,Migration,Migration tracker,AWS Migration Hub,Azure Migrate,N/A
+107,Migration,Server migration,"AWS App2Container, AWS Server Migration Service, CloudEndure Migration",Azure Migrate,"Migrate for Anthos, Migrate for Compute Engine, VM migration"
+108,Miscellaneous,Customer engagement,"Amazon Connect, Contact Lens for Amazon Connect","Azure Communication Services, Azure SignalR Service",Contact Center AI
+109,Miscellaneous,End user communications,"Amazon Pinpoint, Amazon Simple Email Service",Azure Notification Hubs,Firebase Cloud Messaging
+110,Miscellaneous,Gaming,"Amazon GameLift, Amazon Lumberyard",Game Stack,Game Servers
+111,Miscellaneous,Geolocation APIs and services,"Amazon Maps API, Amazon Location Service",Azure Maps,Google Maps Platform
+112,Miscellaneous,Genomics,N/A,Microsoft Genomics,Cloud Life Sciences (preview)
+113,Miscellaneous,Fast Healthcare Interoperability Resources,FHIR Works on AWS,Azure API for FHIR,"Apigee HealthAPIx, Cloud Healthcare API"
+114,Miscellaneous,Industrial and other workplace monitoring tools,"Amazon Lookout for Vision, Amazon Lookout for Equipment, Amazon Panorama (preview), Amazon Monitron",Azure IoT,"Vision AI, Visual Inspection AI"
+115,Miscellaneous,Media services,"Amazon Elastic Transcoder, AWS Elemental suite, Amazon Interactive Video Service, Amazon Kinesis Video Streams","Azure Media Player, Content Protection, Encoding, Live and On-Demand Streaming, Azure Video Analyzer (preview), Media Services","OpenCue, Transcoder API (preview)"
+116,Miscellaneous,Mobile access to internal web apps,Amazon WorkLink,N/A,Identity-Aware Proxy
+117,Miscellaneous,Robotics application development,AWS RoboMaker,N/A,Cloud Robotics Core
+118,Miscellaneous,Satellite ground stations,AWS Ground Station,Azure Orbital (preview),N/A
+119,Miscellaneous,Virtual desktop,"Amazon WorkSpaces, Amazon AppStream 2.0","Azure Virtual Desktop, Citrix Virtual Apps and Desktops, VMware Horizon Cloud on Microsoft Azure",N/A
+120,Miscellaneous,"Virtual reality, mixed reality app development",Amazon Sumerian,"Azure Digital Twins, Kinect DK, Object Anchors (preview), Remote Rendering (preview), Spatial Anchors",Google VR
+121,Networking,"Build, deploy and manage APIs",Amazon API Gateway,"Azure API Apps, API Management",Apigee API Management Platform
+122,Networking,Content delivery network,Amazon CloudFront,Content Delivery Network (CDN),Cloud CDN
+123,Networking,Dedicated fiber connection between VPCs and private network,AWS Direct Connect,Azure ExpressRoute,Cloud Interconnect
+124,Networking,Domain name system,Amazon Route 53,Azure DNS,Cloud DNS
+125,Networking,Load balancing,Elastic Load Balancing (ELB),"Application Gateway, Load Balancer, Traffic Manager",Cloud Load Balancing
+126,Networking,Network accelerator,AWS Global Accelerator,Accelerated Networking,Premium Network Service Tier
+127,Networking,Network area translation,NAT Gateway,"Virtual Network NAT, Azure Route Server (preview)",Cloud NAT
+128,Networking,Satellite ground station,AWS Ground Station,Azure Orbital (preview),N/A
+129,Networking,Service discovery,"Amazon ECS, AWS Cloud Map",N/A,GKE
+130,Networking,Traffic control plane,AWS App Mesh,"Azure Front Door, Azure Service Fabric",Traffic Director
+131,Networking,Virtual WAN,N/A,Virtual WAN,N/A
+132,Networking,VPC,Amazon VPC,Azure Virtual Network,Virtual Private Cloud
+133,Networking,VPC/VM secure connector,"AWS Transit Gateway, AWS VPN","Azure Bastion, Azure Private Link, Azure VPN gateway","Cloud VPN, Direct Peering, VPC Service Controls"
+134,Security,Audit and compliance reports and controls,"AWS Artifact, AWS Audit Manager",Service Trust Portal,Assured Workloads
+135,Security,Centralized security management,AWS Security Hub,Security Center,Security Command Center
+136,Security,Certificate management,AWS Certificate Manager,App Service,Certificate Authority Service
+137,Security,Confidential computing,AWS Nitro Enclaves,Azure Confidential Computing,Confidential Computing
+138,Security,Container deploy-time security control,N/A,N/A,Binary Authorization
+139,Security,Data discovery and classification,Amazon Macie,"Data Catalog, Azure Information Protection","Data Catalog, Cloud Data Loss Prevention"
+140,Security,Distributed denial-of-service (DDoS) protection,AWS Shield,Azure DDoS Protection,Google Cloud Armor
+141,Security,End-user identity management,Amazon Cognito,Azure Active Directory B2C,Firebase Authentication
+142,Security,Firewall management,"AWS Firewall Manager, AWS Network Firewall, AWS WAF","Azure Firewall Manager, Web Application Firewall","Cloud Armor, Cloud firewalls"
+143,Security,Identity and access management,AWS Identity and Access Management,"Azure Active Directory, role-based access control (Azure RBAC), Azure Active Directory External Identities","BeyondCorp Enterprise, Identity and Access Management, Identity Platform, Identity-Aware Proxy"
+144,Security,Key management,"AWS Key Management Service, AWS CloudHSM","Key Vault, Azure Dedicated HSM",Cloud Key Management
+145,Security,Multifactor authentication,AWS Multi-Factor Authentication,Azure AD Multi-Factor Authentication,"Google Authenticator, Titan Security Key"
+146,Security,Microsoft Active Directory compatible directory service,AWS Directory Service for Microsoft Active Directory,Azure Active Directory Domain Service,Managed Service for Microsoft Active Directory
+147,Security,Resource access management,AWS Resource Access Manager,Azure Resource Manager,Resource Manager
+148,Security,Security data analysis,Amazon Detective,Security Center,"Chronicle, Risk Protection Program (preview)"
+149,Security,Secrets management,AWS Secrets Manager,Azure Key Vault,Secret Manager
+150,Security,Single sign-on,AWS Single Sign-On,Azure Active Directory single single-on,Cloud Identity
+151,Security,Signoff for cloud provider data access requests,N/A,Customer Lockbox,Access Transparency
+152,Security,Threat Detection,Amazon GuardDuty,"Microsoft Azure Attestation, Azure Defender, Azure Sentinel","Chronicle, Phishing Protection, Web Risk, Event Threat Detection (preview)"
+153,Security,Vulnerability scanning,Amazon Inspector,Security Center,Web Security Scanner
+154,Storage,Archival storage,"S3 Glacier, S3 Glacier Deep Archive",Archive Storage,Archive Storage
+155,Storage,Backup,AWS Backup,Azure Backup,N/A
+156,Storage,Block storage,Amazon Block Store (EBS),Azure Disk Storage,"Persistent Disk, Local SSD"
+157,Storage,File storage,"Amazon Elastic File Service (EFS), Amazon FSx for Windows File Server, Amazon FSx for Lustre","Avere vFXT for Azure, Azure Files, Azure NetApp Files, Azure FXT Edge Filer",Filestore
+158,Storage,Object storage,Amazon S3,Azure Blob Storage,"Cloud Storage, Cloud Storage for Firebase"

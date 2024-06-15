@@ -1,0 +1,510 @@
+Id,Service,Category,Description
+1,Active Directory Connector (AD Connector),"Security, Identity, & Compliance",Redirect directory requests to your on-premises Microsoft Active Directory
+2,Alexa for Business,Business Applications,Empower your organization with Alexa
+3,Alexa Top Sites,,"Provides lists of web sites, ordered by Alexa Traffic Rank"
+4,Alexa Web Information Service,,Create innovative Web solutions and services based on Alexa's vast information about web sites
+5,Amazon API Gateway,Front-End Web & Mobile,"Build, deploy, and manage APIs"
+6,Amazon AppFlow,Application Integration,No-code integration for SaaS apps & AWS services
+7,Amazon AppIntegrations,,Configure and reuse connections to external applications
+8,Amazon AppStream 2.0,End User Computing,Stream desktop applications securely to a browser
+9,Amazon Athena,Analytics,Query data in S3 using SQL
+10,Amazon Augmented AI,Machine Learning,Easily implement human review of ML predictions
+11,Amazon Aurora,Databases,High performance managed relational database
+12,Amazon Aurora Global Database,Databases,
+13,Amazon Aurora Multi-Master,Databases,Create multiple read-write instances of your Aurora database across multiple Availability Zones
+14,Amazon Aurora Parallel Query,Databases,
+15,Amazon Aurora Serverless,Databases,
+16,Amazon Braket,Quantum Technologies,Accelerate quantum computing research
+17,Amazon Chime,Business Applications,"Frustration-free meetings, video calls, and chat"
+18,Amazon Chime Business Calling,,
+19,Amazon Chime Voice Connector,,Cost-effective SIP trunking and advanced telephony features powered by AWS
+20,Amazon Cloud Directory,,"Fully managed, hierarchical data store in AWS cloud"
+21,Amazon CloudFront,Networking & Content Delivery,Global content delivery network
+22,Amazon CloudFront Field-Level Encryption,,
+23,Amazon CloudFront Functions,,"Write lightweight functions in JavaScript for high-scale, latency-sensitive CDN customizations"
+24,Amazon CloudFront Origin Shield,,"Minimize your origin’s load, improve its availability, and reduce its operating costs"
+25,Amazon CloudSearch,Analytics,Managed search service
+26,Amazon CloudWatch,Management & Governance,Monitor resources and applications
+27,Amazon CloudWatch Anomaly Detection,,
+28,Amazon CloudWatch Application Insights,,Facilitates observability for your applications and underlying AWS resources
+29,Amazon CloudWatch Contributor Insights,,Analyze log data and create time series that display contributor data
+30,Amazon CloudWatch Digital Experience Monitoring (DEM),,
+31,Amazon CloudWatch Evidently,,Safely validate new features by serving them to a specified percentage of your users while you roll out the feature
+32,Amazon CloudWatch Logs,,"Monitor, store, and access your log files from Amazon Elastic Compute Cloud (Amazon EC2) instances, AWS CloudTrail, Route 53, and other sources"
+33,Amazon CloudWatch Logs Agent,,
+34,Amazon CloudWatch Metric Streams,,
+35,Amazon CloudWatch Metrics Insights,,Query your metrics at scale
+36,Amazon CloudWatch RUM,,Perform real user monitoring to collect and view client-side data about your web application performance
+37,Amazon CloudWatch ServiceLens,,
+38,Amazon CloudWatch Synthetics,,"Create canaries, configurable scripts that run on a schedule, to monitor your endpoints and APIs"
+39,Amazon CloudWatch Vended Logs,,
+40,Amazon CodeGuru,Machine Learning,Find your most expensive lines of code
+41,Amazon CodeGuru Profiler,,"Profile your applications in the cloud from a single, centralized dashboard"
+42,Amazon CodeGuru Reviewer,,Finds and flags code defects and suggests recommendations to improve your code
+43,Amazon Cognito,"Security, Identity, & Compliance",Identity management for your apps
+44,Amazon Cognito identity pools (Amazon Cognito Federated Identities),,Delivers scoped temporary credentials to mobile devices and other untrusted environments
+45,Amazon Cognito Sync,,Enables cross-device syncing of application-related user data
+46,Amazon Comprehend,Machine Learning,Discover insights and relationships in text
+47,Amazon Comprehend Medical,,Extract information from unstructured medical text accurately and quickly
+48,Amazon Connect,Business Applications,Omnichannel cloud contact center
+49,Amazon Connect Customer Profiles,,"Enable agents to deliver faster, more personalized customer service"
+50,Amazon Connect High-Volume Outbound Communications,,
+51,Amazon Connect Tasks,,"Easily automate, track, and manage tasks for contact center agents"
+52,Amazon Connect Voice ID,,Real-time caller authentication and fraud risk detection using ML-powered voice analysis
+53,Amazon Connect Wisdom,,Deliver agents the information they need to solve issues in real-time
+54,Amazon Corretto,Developer Tools,Production-ready distribution of OpenJDK
+55,Amazon Data Lifecycle Manager,,"Automate the creation, retention, and deletion of EBS snapshots and EBS-backed AMIs"
+56,Amazon Detective,"Security, Identity, & Compliance",Investigate potential security issues
+57,Amazon DevOps Guru,Machine Learning,ML-powered cloud operations service to improve application availability
+58,Amazon DevOps Guru for RDS,Machine Learning,"Detect, diagnose, and remediate performance issues in Amazon RDS"
+59,Amazon DevPay,,
+60,Amazon DocumentDB,Databases,Fully managed document database
+61,Amazon DynamoDB,Databases,Managed NoSQL database
+62,Amazon DynamoDB Accelerator (DAX),,"Fully managed, highly available, in-memory cache for Amazon DynamoDB"
+63,Amazon EBS Snapshots Archive,Storage,Archive EBS Snapshots and save up to 75% in snapshot storage costs
+64,Amazon EC2,Compute,Virtual servers in the cloud
+65,Amazon EC2 Auto Scaling,Compute,Scale compute capacity to meet demand
+66,Amazon EC2 C7g Instances & Graviton3,Compute,Best price performance for compute-intensive workloads in Amazon EC2
+67,Amazon EC2 Dedicated Hosts,,Dedicated hardware to support existing software licenses and improve compliance
+68,Amazon EC2 G5g Instances,Compute,Best price performance in Amazon EC2 for Android game streaming
+69,Amazon EC2 I4i Instances,Compute,The highest local storage performance in Amazon EC2
+70,Amazon EC2 Im4gn/Is4gen Instances,Compute,Best price performance and lowest cost SSD-based storage in Amazon EC2
+71,Amazon EC2 Image Builder,,Build and maintain secure images
+72,Amazon EC2 Instance Connect,,Connect to your Linux instances using Secure Shell (SSH)
+73,Amazon EC2 M1 Mac Instances,Compute,Better application build performance and faster tests for macOS
+74,Amazon EC2 M6a Instances,Compute,General purpose instances powered by 3rd generation AMD EPYC processors
+75,Amazon EC2 Reserved Instances (RI),,
+76,Amazon EC2 Spot Instances,Compute,Run workloads for up to 90% off
+77,Amazon EC2 Trn1 Instances,Compute,The best price performance for training deep learning models in the cloud
+78,Amazon EC2 VM Import/Export,,Import VM images from your existing environment to Amazon EC2 instances and export them back to your on-premises environment
+79,Amazon EC2 X2idn/X2iedn Instances,Compute,Up to 50% better compute price performance than previous generation instances
+80,Amazon EC2 X2iezn Instances,Compute,The fastest Intel Xeon Scalable processor in the cloud
+81,Amazon Elastic Block Store (EBS),Storage,EC2 block storage volumes
+82,Amazon Elastic Container Registry (ECR),Containers,"Easily store, manage, and deploy container images"
+83,Amazon Elastic Container Registry Public (Amazon ECR Public),,
+84,Amazon Elastic Container Service (ECS),Containers,"Highly secure, reliable, and scalable way to run containers"
+85,Amazon Elastic Container Service (ECS) Anywhere,,Easily run containers on customer-managed infrastructure with ECS Anywhere
+86,Amazon Elastic File System (EFS),Storage,Fully managed file system for EC2
+87,Amazon Elastic Graphics,,Easily and cost-effectively add graphics acceleration to Amazon EC2 Instances
+88,Amazon Elastic Inference,Machine Learning,Deep learning inference acceleration
+89,Amazon Elastic Kubernetes Service (EKS),Containers,The most trusted way to run Kubernetes
+90,Amazon Elastic Transcoder,Media Services,Easy-to-use scalable media transcoding
+91,Amazon ElastiCache,Databases,In-memory caching service
+92,Amazon EMR,Analytics,Hosted Hadoop framework
+93,Amazon EMR on EKS,,Run open-source big data frameworks on Amazon Elastic Kubernetes Service (Amazon EKS)
+94,Amazon EMR Serverless,Analytics,Run big data applications using open-source frameworks without managing clusters and servers
+95,Amazon EventBridge,Application Integration,Serverless event bus for SaaS apps & AWS services
+96,Amazon EventBridge Schema Registry (Amazon EventBridge Schemas),,"Discover, create, and manage OpenAPI schemas for events on EventBridge"
+97,Amazon FinSpace,Analytics,"Store, catalog, prepare, and analyze financial industry data in minutes"
+98,Amazon Forecast,Machine Learning,Increase forecast accuracy using machine learning
+99,Amazon Fraud Detector,Machine Learning,Detect more online fraud faster
+100,Amazon FreeRTOS,Internet of Things,Real-time operating system for microcontrollers
+101,Amazon FSx,Storage,"Launch, run, and scale feature-rich and highly-performant file systems with just a few clicks"
+102,Amazon FSx for Lustre,Storage,High-performance file system integrated with S3
+103,Amazon FSx for OpenZFS,Storage,Fully managed storage built on the popular OpenZFS file system
+104,Amazon FSx for Windows File Server,Storage,Fully managed Windows native file system
+105,Amazon GameLift,Game Tech,"Simple, fast, cost-effective dedicated game server hosting"
+106,Amazon GuardDuty,"Security, Identity, & Compliance",Managed threat detection service
+107,Amazon HealthLake,Machine Learning,"Securely store, transform, query, and analyze health data in minutes"
+108,Amazon Honeycode,Business Applications,Build mobile & web apps without programming
+109,Amazon Inspector,"Security, Identity, & Compliance",Automated and continual vulnerability management for Amazon EC2 and Amazon ECR
+110,Amazon Interactive Video Service (IVS),Media Services,Build engaging live stream experiences
+111,Amazon Kendra,Machine Learning,Reinvent enterprise search with ML
+112,Amazon Keyspaces (for Apache Cassandra),Databases,Managed Cassandra-compatible database
+113,Amazon Kinesis,Analytics,Analyze real-time video and data streams
+114,Amazon Kinesis Data Analytics,,"Gain actionable insights from streaming data with serverless, fully managed Apache Flink"
+115,Amazon Kinesis Data Firehose,,"Reliably load real-time streams into data lakes, warehouses, and analytics services"
+116,Amazon Kinesis Data Streams,Analytics,Easily stream data at any scale
+117,Amazon Kinesis Data Streams On-Demand,Analytics,
+118,Amazon Kinesis Video Streams,Media Services,Process and analyze video streams
+119,Amazon Lex,Machine Learning,Build voice and text chatbots
+120,Amazon Lex Automated Chatbot Designer,Machine Learning,Design chatbots using existing conversation transcripts
+121,Amazon Lightsail,Compute,Launch and manage virtual private servers
+122,Amazon Location Service,Front-End Web & Mobile,Securely and easily add location data to applications
+123,Amazon Lookout for Equipment,Machine Learning,Detect abnormal equipment behavior by analyzing sensor data
+124,Amazon Lookout for Metrics,Machine Learning,Automatically detect anomalies in metrics and identify their root cause
+125,Amazon Lookout for Vision,Machine Learning,Spot product defects using computer vision to automate quality inspection
+126,Amazon Lumberyard,Game Tech,"A free cross-platform 3D game engine, with Full Source, integrated with AWS and Twitch"
+127,Amazon Machine Learning,,Innovate faster with the most comprehensive set of AI and ML services
+128,Amazon Macie,"Security, Identity, & Compliance",Discover and protect your sensitive data at scale
+129,Amazon Macie Classic,,"Discover, classify, and protect sensitive data in AWS"
+130,Amazon Managed Blockchain,Blockchain,Create and manage scalable blockchain networks
+131,Amazon Managed Grafana,Management & Governance,"Scalable, secure, and highly available data visualization for your operational metrics, logs, and traces"
+132,Amazon Managed Service for Prometheus,Management & Governance,"Highly available, secure, and managed monitoring for your containers"
+133,Amazon Managed Streaming for Apache Kafka (Amazon MSK) Serverless,Analytics,Easily stream data with Amazon MSK without managing cluster capacity
+134,Amazon Managed Streaming for Apache Kafka (MSK),Analytics,Fully managed Apache Kafka service
+135,Amazon Managed Streaming for Kafka Connect (Amazon MSK Connect),,Stream data to and from your Apache Kafka clusters
+136,Amazon Managed Workflows for Apache Airflow (MWAA),Application Integration,"Highly available, secure, and managed workflow orchestration for Apache Airflow"
+137,Amazon Mechanical Turk (MTurk),,"Access a global, on-demand, 24x7 workforce"
+138,Amazon MemoryDB for Redis,Databases,"Redis-compatible, durable, in-memory database service for ultra-fast performance"
+139,Amazon Message Delivery Service,,
+140,Amazon Mobile Analytics,,"Collect, View and Export App Analytics"
+141,Amazon Monitron,Machine Learning,Reduce unplanned equipment downtime with predictive maintenance and machine learning
+142,Amazon MQ,Application Integration,Managed message broker service
+143,Amazon Neptune,Databases,Fully managed graph database service
+144,Amazon Neptune Lab Mode,Databases,Enable new Neptune engine features
+145,Amazon Neptune ML,,"Easy, fast, and accurate predictions for graphs"
+146,Amazon Neptune Streams,Databases,Generate a complete sequence of change-log entries for your graph data
+147,Amazon Nimble Studio,Media Services,Accelerate content creation in the cloud
+148,Amazon OpenSearch Service (successor to Amazon Elasticsearch Service),Analytics,"Search, visualize, and analyze up to petabytes of text and unstructured data"
+149,Amazon Personalize,Machine Learning,Build real-time recommendations into your applications
+150,Amazon Pinpoint,Front-End Web & Mobile,Multichannel marketing communications
+151,Amazon Pinpoint Email Service,,
+152,Amazon Pinpoint SMS and Voice,,
+153,Amazon Polly,Machine Learning,Turn text into life-like speech
+154,Amazon Quantum Ledger Database (QLDB),Blockchain,Fully managed ledger database
+155,Amazon Quantum Solutions Lab,,Collaborate with experts to accelerate the development of quantum solutions
+156,Amazon QuickSight,Analytics,Fast business analytics service
+157,Amazon RDS,Databases,"Managed relational database service for MySQL, PostgreSQL, Oracle, SQL Server, and MariaDB"
+158,Amazon RDS Custom for SQL Server,Databases,Managed database services for applications that require operating system and database customization
+159,Amazon RDS Data API,,
+160,Amazon RDS Database Preview Environment,,"Test beta, release candidate, and early production versions of database engine software on RDS"
+161,Amazon RDS for MariaDB,,"Set up, operate, and scale a relational database in the cloud with just a few clicks"
+162,Amazon RDS for MySQL,,"Set up, operate, and scale a relational database in the cloud with just a few clicks"
+163,Amazon RDS for Oracle,,"Set up, operate, and scale an Oracle database in the cloud with just a few clicks"
+164,Amazon RDS for PostgreSQL,,"Set up, operate, and scale a relational database in the cloud with just a few clicks"
+165,Amazon RDS for SQL Server,,"Set up, operate, and scale a SQL Server database in the cloud with just a few clicks"
+166,Amazon RDS Free Tier,,
+167,Amazon RDS High Availability,,Add High Availability (HA) to your relational databases
+168,Amazon RDS Multi-AZ Deployments,,
+169,Amazon RDS on Outposts,,Deploy Amazon RDS managed databases in on-premises environments
+170,Amazon RDS on VMware,Databases,Automate on-premises database management
+171,Amazon RDS Performance Insights,,Analyze and tune Amazon RDS database performance
+172,Amazon RDS Proxy,,"Make your applications more scalable, resilient, and secure"
+173,Amazon Redshift,Databases,"Fast, simple, cost-effective data warehousing"
+174,Amazon Redshift Concurrency Scaling,,"Get consistent, fast query performance for highly concurrent workloads"
+175,Amazon Redshift Data API,,
+176,Amazon Redshift ML,,"Create, train, and deploy machine learning (ML) models using familiar SQL commands"
+177,Amazon Redshift Query Editor v2.0,,
+178,Amazon Redshift RA3 instances with managed storage,,Scale compute and storage independently for fast query performance and lower costs
+179,Amazon Redshift Serverless,Analytics,Get insights in seconds without having to manage your data warehouse
+180,Amazon Redshift Spectrum,,
+181,Amazon Rekognition,Machine Learning,Analyze image and video
+182,Amazon Resource Group Tagging API,,
+183,Amazon Route 53,Networking & Content Delivery,Scalable domain name system (DNS)
+184,Amazon Route 53 Application Recovery Controller,,Simplify and automate recovery for highly available applications
+185,Amazon Route 53 Resolver,,
+186,Amazon S3 Access Points,,
+187,Amazon S3 Batch Operations,,
+188,Amazon S3 Block Public Access,,
+189,Amazon S3 Glacier,Storage,Low-cost archive storage in the cloud
+190,Amazon S3 Glacier Instant Retrieval,Storage,Lowest cost storage with milliseconds retrieval for rarely accessed data
+191,Amazon S3 Glacier Select,,
+192,Amazon S3 Intelligent-Tiering,,Automates storage cost savings by moving data when access patterns change
+193,Amazon S3 Multi-Region Access Points,,
+194,Amazon S3 Object Lambda,,Add your own code to S3 GET requests to modify and process data as it is returned to an application
+195,Amazon S3 on Outposts,,Object storage in your on-premises environments
+196,Amazon S3 Select,,
+197,Amazon S3 Storage Lens,,
+198,Amazon SageMaker,Machine Learning,"Build, train, and deploy machine learning models at scale"
+199,Amazon SageMaker Autopilot,,Automatically create machine learning models with full visibility
+200,Amazon SageMaker Canvas,Machine Learning,Generate accurate machine learning predictions - no code required
+201,Amazon SageMaker Clarify,,Detect bias in ML models and understand model predictions
+202,Amazon SageMaker Data Labeling,,Create high-quality datasets for training machine learning models
+203,Amazon SageMaker Data Wrangler,,The fastest and easiest way to prepare data for machine learning
+204,Amazon SageMaker Debugger,,"Debug, monitor, and profile training jobs"
+205,Amazon SageMaker Edge,,Easily operate machine learning (ML) models running on edge devices
+206,Amazon SageMaker Experiments,,"Organize, track, compare, and evaluate your machine learning experiments"
+207,Amazon SageMaker Feature Store,,A fully managed repository for machine learning features
+208,Amazon SageMaker Ground Truth,Machine Learning,Build accurate ML training datasets
+209,Amazon SageMaker Ground Truth Plus,Machine Learning,Create high-quality datasets for training machine learning models
+210,Amazon SageMaker Inference Recommender,,
+211,Amazon SageMaker JumpStart,,Pre-built machine learning (ML) solutions that you can deploy with just a few clicks
+212,Amazon SageMaker Managed Spot Training,,Use EC2 Spot Instances for your training jobs
+213,Amazon SageMaker Model Monitor,,Keep machine learning models accurate over time
+214,Amazon SageMaker Pipelines,,First purpose-built CI/CD service for machine learning
+215,Amazon SageMaker Studio Lab,Machine Learning,"Learn and experiment with ML using free, no-configuration Jupyter Notebooks in the cloud"
+216,Amazon SageMaker Training Compiler,Machine Learning,Train ML models quickly and cost-effectively with Amazon SageMaker
+217,Amazon Session Manager Message Gateway Service,,
+218,Amazon Silk,,Next-generation web browser
+219,Amazon Simple Email Service (SES),Front-End Web & Mobile,High-scale inbound and outbound email
+220,Amazon Simple Notification Service (SNS),Application Integration,"Pub/sub, SMS, email, and mobile push notifications"
+221,Amazon Simple Queue Service (SQS),Application Integration,Managed message queues
+222,Amazon Simple Storage Service (S3),Storage,Object storage built to retrieve any amount of data from anywhere
+223,Amazon Simple Storage Service (S3) Replication,,
+224,Amazon Simple Workflow Service (SWF),,"Build, run, and scale background jobs that have parallel or sequential steps"
+225,Amazon SimpleDB,,Highly available NoSQL data store
+226,Amazon SNS Worldwide SMS,,
+227,Amazon SQS FIFO (First-In-First-Out),,
+228,Amazon Sumerian,AR & VR,Build and run AR and VR applications
+229,Amazon Textract,Machine Learning,Extract text and data from documents
+230,Amazon Timestream,Databases,Fully managed time series database
+231,Amazon Transcribe,Machine Learning,Automatic speech recognition
+232,Amazon Translate,Machine Learning,Natural and fluent language translation
+233,Amazon Virtual Private Cloud (VPC) ClassicLink,,Link EC2-Classic instances to a VPC
+234,Amazon Virtual Private Cloud (VPC) Flow Logs,,Capture information about the IP traffic going to and from network interfaces in your VPC
+235,Amazon VPC,Networking & Content Delivery,Isolated cloud resources
+236,Amazon WorkDocs,Business Applications,Secure enterprise document storage and sharing
+237,Amazon WorkMail,Business Applications,Secure email and calendaring
+238,Amazon WorkMail Message Flow,,
+239,Amazon WorkSpaces,End User Computing,Virtual desktops in the cloud
+240,Amazon WorkSpaces Application Manager (Amazon WAM),,Deploy and manage applications for Amazon WorkSpaces
+241,Amazon WorkSpaces Web,,Provide employees with secure access to internal websites and SaaS apps
+242,Apache MXNet on AWS,Machine Learning,"Scalable, open-source deep learning framework"
+243,Application Auto Scaling,,Automatically scale your scalable resources for individual AWS services beyond Amazon EC2
+244,AQUA (Advanced Query Accelerator) for Amazon Redshift,,
+245,AWS Accelerated Site-to-Site VPN,,
+246,AWS Account Vending Machine (AVM),,
+247,AWS Activate,,Free tools and resources for startups to quickly get started on AWS
+248,AWS Amplify,Front-End Web & Mobile,"Build, deploy, host, and manage scalable web and mobile apps"
+249,AWS Amplify Auth,,"Faster, easier secure app authentication and authorization, powered by Amazon Cognito"
+250,AWS Amplify Console,,
+251,AWS Amplify DataStore,,"Faster, easier app data modeling with real-time and offline capabilities, powered by AWS AppSync and Amazon DynamoDB"
+252,AWS Amplify Hosting,,"Fast, secure, and reliable hosting for modern web apps, powered by AWS Amplify"
+253,AWS Amplify Storage,,"Store user files on AWS, powered by Amazon S3"
+254,AWS Amplify Studio,Front-End Web & Mobile,Extend AWS Amplify with a visual development environment for creating apps with minimal coding
+255,AWS App Mesh,Networking & Content Delivery,Monitor and control microservices
+256,AWS App Mesh Preview Channel,,
+257,AWS App Runner,Compute,Production web applications at scale made easy for developers
+258,AWS App2Container,Containers,Containerize and migrate existing applications
+259,AWS AppConfig,,"Create, manage, and quickly deploy application configurations"
+260,AWS Application Cost Profiler,,Granular cost insights for your multi-tenant applications
+261,AWS Application Discovery Service,Migration,Discover on-premises applications to streamline migration
+262,AWS Application Migration Service,,Simplify and expedite your migration while reducing costs
+263,AWS Application Migration Service (MGN),Migration,Automate application migration and modernization
+264,AWS AppSync,Front-End Web & Mobile,"Accelerate app development with fully-managed, scalable GraphQL APIs"
+265,AWS Artifact,"Security, Identity, & Compliance",On-demand access to AWS’ compliance reports
+266,AWS Audit Manager,"Security, Identity, & Compliance",Continuously audit your AWS usage to simplify how you assess risk and compliance
+267,AWS Auto Scaling,Compute,Scale multiple resources to meet demand
+268,AWS Backint Agent (AWS Backint Agent for SAP HANA),,Easily backup and restore your SAP HANA database to and from Amazon S3
+269,AWS Backup,Storage,Centralized backup across AWS services
+270,AWS Backup support for Amazon S3,Storage,Centrally manage backup and restore of app data stored in S3
+271,AWS Backup support for VMware workloads,Storage,Centrally protect hybrid VMware environments
+272,AWS Batch,Compute,Run batch jobs at any scale
+273,AWS Billing,,Easily understand your monthly AWS Bills
+274,AWS Blockchain Templates,,Create and deploy open-source blockchain frameworks on AWS
+275,AWS Budgets,Cloud Financial Management,Set custom cost and usage budgets
+276,AWS BugBust,,Improve your code quality and optimize your applications
+277,AWS Certificate Manager,"Security, Identity, & Compliance","Provision, manage, and deploy SSL/TLS certificates"
+278,AWS Certificate Manager Private Certificate Authority,,Highly-available private CA service
+279,AWS Certification,,Validate technical skills and cloud expertise to grow your career and business
+280,AWS Chatbot,Management & Governance,ChatOps for AWS
+281,AWS Client VPN,,Securely connect your remote workforce to AWS or on-premises resources
+282,AWS Cloud Control API,Developer Tools,Manage AWS and third-party cloud infrastructure with consistent APIs
+283,AWS Cloud Development Kit (CDK),Developer Tools,Model cloud infrastructure using code
+284,AWS Cloud Digital Interface Software Development Kit (AWS CDI SDK),,Reliably transport uncompressed live video between applications
+285,AWS Cloud Map,Networking & Content Delivery,Service discovery for cloud resources
+286,AWS Cloud WAN,Networking & Content Delivery,"Easily build, manage, and monitor global wide area networks"
+287,AWS Cloud9,Developer Tools,"Write, run, and debug code on a cloud IDE"
+288,AWS CloudFormation,Management & Governance,Create and manage resources with templates
+289,AWS CloudHSM,"Security, Identity, & Compliance",Hardware-based key storage for regulatory compliance
+290,AWS CloudShell,Developer Tools,Command line access to AWS resources and tools directly from a browser
+291,AWS CloudTrail,Management & Governance,Track user activity and API usage
+292,AWS CodeArtifact,Developer Tools,"Secure, scalable, and cost-effective artifact management for software development"
+293,AWS CodeBuild,Developer Tools,Build and test code
+294,AWS CodeCommit,Developer Tools,Store code in private Git repositories
+295,AWS CodeDeploy,Developer Tools,Automate code deployments
+296,AWS CodePipeline,Developer Tools,Release software using continuous delivery
+297,AWS CodeStar,Developer Tools,Develop and deploy AWS applications
+298,AWS CodeStar Connections,,
+299,AWS CodeStar Notifications,,
+300,AWS Command Line Interface (CLI),Developer Tools,Line Interface Unified tool to manage AWS services
+301,AWS Compute Optimizer,Compute,Identify optimal AWS Compute resources
+302,AWS Config,Management & Governance,Track resources inventory and changes
+303,AWS Console Mobile Application,,Stay connected to your AWS resources on-the-go
+304,AWS Construct Library,,
+305,AWS Control Tower,Management & Governance,"Set up and govern a secure, compliant multi-account environment"
+306,AWS Control Tower Data Residency Guardrails,Management & Governance,Keep your customer data in specific AWS Regions
+307,AWS Copilot,Containers,AWS Copilot is the easiest way to launch and manage your containerized application on AWS
+308,AWS Cost and Usage Report,Cloud Financial Management,Access comprehensive cost and usage information
+309,AWS Cost Anomaly Detection,,Automated cost anomaly detection and root cause analysis
+310,AWS Cost Categories,,Map cost and usage information to your organizational structure
+311,AWS Cost Explorer,Cloud Financial Management,Analyze your AWS cost and usage
+312,AWS Data Exchange,Analytics,"Find, subscribe to, and use third-party data in the cloud"
+313,AWS Data Exchange for Amazon Redshift,,
+314,AWS Data Pipeline,Analytics,"Orchestration service for periodic, data-driven workflows"
+315,AWS Database Migration Service (DMS),Migration,Migrate databases with minimal downtime
+316,AWS DataSync,Migration,"Simple, fast, online data transfer"
+317,AWS Deep Learning AMIs,Machine Learning,Deep learning on Amazon EC2
+318,AWS Deep Learning Containers,Machine Learning,Docker images for deep learning
+319,AWS DeepComposer,Machine Learning,ML enabled musical keyboard
+320,AWS DeepComposer Chartbusters,,
+321,AWS DeepLens,Machine Learning,Deep learning enabled video camera
+322,AWS DeepRacer,Machine Learning,"Autonomous 1/18th scale race car, driven by ML"
+323,AWS Developer Center,,
+324,AWS Device Farm,Front-End Web & Mobile,"Test Android, iOS, and web apps on real devices in the AWS cloud"
+325,AWS Direct Connect,Networking & Content Delivery,Dedicated network connection to AWS
+326,"AWS Directory Service (AWS Directory Service for Microsoft Active Directory, AWS Managed Microsoft Active Directory, AWS Managed Microsoft AD)","Security, Identity, & Compliance",Host and manage active directory
+327,AWS Distro for OpenTelemetry,Management & Governance,"Secure, production-ready open source distribution with predictable performance"
+328,AWS Elastic Beanstalk,Compute,Run and manage web apps
+329,AWS Elastic Disaster Recovery,,"Scalable, cost-effective application recovery to AWS"
+330,AWS Elastic Disaster Recovery (DRS),Storage,"Scalable, cost-effective application recovery to AWS"
+331,AWS Elemental Appliances & Software,Media Services,On-premises media solutions
+332,AWS Elemental Appliances and Software Activation Service,,
+333,AWS Elemental Cloud,,
+334,AWS Elemental Conductor,,Simplify management for on-premises video encoding
+335,AWS Elemental Conductor File,,
+336,AWS Elemental Delta,,Package and deliver live and on-demand video on-premises
+337,AWS Elemental Live,,Encode live video on-premises for events and 24/7 streams
+338,AWS Elemental MediaConnect,Media Services,Reliable and secure live video transport
+339,AWS Elemental MediaConvert,Media Services,Convert file-based video content
+340,AWS Elemental MediaLive,Media Services,Convert live video content
+341,AWS Elemental MediaPackage,Media Services,Video origination and packaging
+342,AWS Elemental MediaStore,Media Services,Media storage and simple http origin
+343,AWS Elemental MediaTailor,Media Services,Video personalization and monetization
+344,AWS Elemental Server,,Prepare file-based video on-premises for on-demand distribution
+345,AWS Elemental Statmux,,
+346,AWS End-of-Support Migration Program for Windows Server,,Future-proof your legacy Windows Server applications on AWS
+347,AWS Fargate,Containers,Serverless compute for containers
+348,AWS Fault Injection Simulator,Developer Tools,Improve resiliency and performance with controlled experiments
+349,AWS Firewall Manager,"Security, Identity, & Compliance",Central management of firewall rules
+350,AWS Free Tier,,"Gain free, hands-on experience with the AWS platform, products, and services"
+351,AWS General Reference,,Provides information that is useful across Amazon Web Services
+352,AWS Global Accelerator,Networking & Content Delivery,Improve global application availability and performance
+353,AWS Glue,Analytics,"Simple, scalable, and serverless data integration"
+354,AWS Glue Data Catalog,,
+355,AWS Glue DataBrew,,Clean and normalize data up to 80% faster
+356,AWS Glue Elastic Views,,Combine and replicate data across multiple data stores using SQL
+357,AWS Glue Schema Registry,,"Centrally discover, control, and evolve data stream schemas"
+358,AWS Glue Studio,,"Create, run, and monitor extract, transform, and load (ETL) jobs in AWS Glue"
+359,AWS GovCloud (US),,
+360,AWS Graviton Processor,,Enabling the best price performance in Amazon EC2
+361,AWS Ground Station,Satellite,Fully managed ground station as a service
+362,AWS Health,,
+363,AWS IAM Access Analyzer,,Identify unintended access to your resources and data
+364,AWS IAM Policy Simulator,,
+365,AWS Identity and Access Management (AWS IAM),"Security, Identity, & Compliance",Securely manage access to services and resources
+366,AWS Import/Export,,Transfer large amounts of data between AWS and portable storage devices
+367,AWS Inferentia,Machine Learning,Machine learning inference chip
+368,AWS IoT,,Unlock your IoT data and accelerate business growth
+369,AWS IoT 1-Click,Internet of Things,One click creation of an AWS Lambda trigger
+370,AWS IoT Analytics,Internet of Things,Analytics for IoT devices
+371,AWS IoT Button,Internet of Things,Cloud programmable dash button
+372,AWS IoT Core,Internet of Things,Connect devices to the cloud
+373,AWS IoT Core Device Advisor,,Validate your IoT devices for reliable and secure connectivity with AWS IoT Core
+374,AWS IoT Core for LoRaWAN,,"Connect, manage, and secure LoRaWAN devices at scale"
+375,AWS IoT Device Defender,Internet of Things,Security management for IoT devices
+376,AWS IoT Device Management,Internet of Things,"Onboard, organize, and remotely manage IoT devices"
+377,AWS IoT Device Tester for AWS IoT Greengrass,,Determine if your devices will run AWS IoT Greengrass and interoperate with AWS IoT services
+378,AWS IoT Device Tester for FreeRTOS,,Determine if your device will run FreeRTOS and interoperate with AWS IoT services
+379,AWS IoT EduKit,Internet of Things,Learn how to build simple IoT applications with reference hardware and step-by-step tutorials
+380,AWS IoT Events,Internet of Things,IoT event detection and response
+381,AWS IoT ExpressLink,Internet of Things,Quickly and easily develop secure IoT devices
+382,AWS IoT FleetWise,Internet of Things,"Easily collect, transform, and transfer vehicle data to the cloud in near-real time"
+383,AWS IoT Greengrass,Internet of Things,"Local compute, messaging, and sync for devices"
+384,AWS IoT RoboRunner,Internet of Things,Build applications that help fleets of robots work together seamlessly
+385,AWS IoT SiteWise,Internet of Things,IoT data collector and interpreter
+386,AWS IoT Things Graph,Internet of Things,Easily connect devices and web services
+387,AWS IoT TwinMaker,Internet of Things,Optimize operations by easily creating digital twins of real-world systems
+388,AWS IQ,,Complete projects faster with AWS Certified freelancers and consulting firms
+389,AWS Key Management Service (KMS),"Security, Identity, & Compliance",Managed creation and control of encryption keys
+390,AWS Lake Formation,Analytics,Build a secure data lake in days
+391,AWS Lambda,Compute,Run code without thinking about servers
+392,AWS Lambda@Edge,,Run your code closer to your users
+393,AWS Landing Zone,,
+394,AWS Launch Wizard,Management & Governance,"Easily size, configure, and deploy third party applications on AWS"
+395,AWS License Manager,Management & Governance,"Track, manage, and control licenses"
+396,AWS Mainframe Modernization,Migration,"Migrate, modernize, operate, and run mainframe workloads"
+397,AWS Managed Services,Management & Governance,Infrastructure operations management for AWS
+398,AWS Management Console,Management & Governance,Web-based user interface
+399,AWS Management Console Mobile Application,Management & Governance,Access resources on the go
+400,AWS Marketplace,,"Find, test, buy, and deploy software that runs on AWS"
+401,AWS Marketplace Catalog,,Manage AWS Marketplace for your AWS organization or AWS account
+402,AWS Marketplace Commerce Analytics Service,,Programmatically access product and customer data through AWS Marketplace
+403,AWS Marketplace Entitlement Service,,Determine the entitlement of a customer to a given product
+404,AWS Marketplace for Containers Anywhere,Containers,"Find, subscribe to, and deploy third-party applications that run in any Kubernetes environment"
+405,AWS Marketplace Management Portal,,
+406,AWS Marketplace Metering Service,,
+407,AWS Marketplace Private Image Build,,Build and deploy Amazon Machine Images (AMIs) that combine your private “gold images” with installable third party products from independent software vendors
+408,AWS Marketplace Private Marketplace,,Create customized private catalogs of approved products from AWS Marketplace
+409,AWS Marketplace Procurement Systems Integration,,Integrate AWS Marketplace into your procurement system to help centralize governance for software provisioning
+410,AWS Microservice Extractor for .NET,,Simplify refactoring .NET applications
+411,AWS Migration Hub,Migration,Track migrations from a single place
+412,AWS Migration Hub Refactor Spaces,,Manage the refactor process while operating in production
+413,AWS Migration Hub Strategy Recommendations,,Accelerates migration and modernization
+414,AWS Multi-Factor Authentication (AWS MFA),,
+415,AWS Network Firewall,"Security, Identity, & Compliance",Deploy network security across your Amazon VPCs with just a few clicks
+416,AWS Network Manager,,Centrally manage your Amazon Web Services Cloud WAN core network and your Amazon Web Services Transit Gateway network
+417,AWS Nitro System,,A combination of dedicated hardware and lightweight hypervisor enabling faster innovation and enhanced security
+418,AWS OpsWorks,Management & Governance,Automate operations with Chef and Puppet
+419,AWS OpsWorks Configuration Management (CM),,
+420,AWS OpsWorks for Chef Automate,,Fully managed Chef server and Chef Automate
+421,AWS OpsWorks for Puppet Enterprise,,Fully Managed Puppet Master
+422,AWS OpsWorks Stacks,,Automate Operations with Chef
+423,AWS Organizations,Management & Governance,Central governance and management across AWS accounts
+424,AWS Outposts,Compute,Run AWS infrastructure on-premises
+425,AWS Outposts 1U and 2U,Compute,Run AWS Outposts in smaller locations
+426,AWS Panorama,Machine Learning,Improve your operations with computer vision at the edge
+427,AWS Panorama Appliance,,
+428,AWS ParallelCluster,,Deploy and manage high performance computing (HPC) clusters in the AWS Cloud
+429,AWS Partner Device Catalog,Internet of Things,Curated catalog of AWS-compatible IoT hardware
+430,AWS Personal Health Dashboard,Management & Governance,Personalized view of AWS service health
+431,AWS Prescriptive Guidance,,Resources from AWS technology experts and AWS Partners to help accelerate cloud adoption and modernization
+432,AWS Price List,,
+433,AWS Price List Service,,
+434,AWS Pricing Calculator,,Estimate the cost for your architecture solution
+435,AWS Private 5G,Networking & Content Delivery,"Easily deploy, manage, and scale a private cellular network"
+436,AWS PrivateLink,Networking & Content Delivery,Securely access services hosted on AWS
+437,AWS Professional Services,,Helping you achieve your desired business outcomes with AWS
+438,AWS Proton,Management & Governance,Automate management for container and serverless deployments
+439,AWS Purchase Order Management,,Enable your AWS procurement process to be cloud-ready
+440,AWS Quick Starts,,Automated deployments in the AWS Cloud
+441,AWS re:Post,,
+442,AWS Resilience Hub,Management & Governance,Prepare and protect your applications from disruptions
+443,AWS Resource Access Manager,"Security, Identity, & Compliance","Simple, secure service to share AWS resources"
+444,AWS Resource Groups,,Organize your AWS resources into groups
+445,AWS Resource Groups Tag Editor,,Edit tags for multiple AWS resources at once
+446,AWS RoboMaker,Robotics,"Develop, test, and deploy robotics applications"
+447,AWS Savings Plans,,Flexible pricing model for AWS Services
+448,AWS Schema Conversion Tool (AWS SCT),,Convert your existing database schema from one database engine to another
+449,AWS Secrets Manager,"Security, Identity, & Compliance","Rotate, manage, and retrieve secrets"
+450,AWS Security Hub,"Security, Identity, & Compliance",Unified security and compliance center
+451,AWS Security Token Service (AWS STS),,"Request temporary, limited-privilege credentials for AWS Identity and Access Management (IAM) users or for users you authenticate (federated users)"
+452,AWS Server Migration Service (SMS),Migration,Migrate on-premises servers to AWS
+453,AWS Serverless Application Model (AWS SAM),,Build serverless applications in simple and clean syntax
+454,AWS Serverless Application Repository,Compute,"Discover, deploy, and publish serverless applications"
+455,AWS Service Catalog,Management & Governance,Create and use standardized products
+456,AWS Shield,"Security, Identity, & Compliance",DDoS protection
+457,AWS Shield Advanced,,
+458,AWS Signer,,Cryptographically sign computer code for AWS Lambda applications and AWS-supported IoT devices
+459,AWS Simple Active Directory,,"Fully managed, Samba-based directory in the AWS cloud"
+460,AWS Single Sign-On (SSO),"Security, Identity, & Compliance",Cloud single sign-on (SSO) service
+461,AWS Single Sign-On (SSO) Identity Store,,A single place to retrieve all of your identities (users and groups)
+462,AWS Site-to-Site VPN,,Extend your on-premises networks to the cloud
+463,AWS Snow Device Management,,Manage your AWS Snowcone device and local AWS services remotely
+464,AWS Snow Family,Storage,Physical edge computing and storage devices for rugged or disconnected environments
+465,AWS Snowball,,Petabyte-scale data transport with on-board storage and compute capabilities
+466,AWS Snowcone,,"Snowcone is a small, rugged edge compute and data storage product"
+467,AWS Snowmobile,,Migrate or transport exabyte-scale data sets into and out of AWS
+468,AWS Solutions Library,,Vetted technology solutions for the AWS Cloud
+469,AWS Step Functions,Application Integration,Coordination for distributed applications
+470,AWS Storage Gateway,Storage,Hybrid storage integration
+471,AWS Support,,Provides support for users of Amazon Web Services
+472,AWS Systems Manager,Management & Governance,Gain operational insights and take action
+473,AWS Systems Manager Agent (SSM Agent),,
+474,AWS Systems Manager Incident Manager,,Incident management and automated response in AWS Systems Manager
+475,AWS Tools and SDKs,Developer Tools,Tools and SDKs for AWS
+476,AWS Tools for PowerShell,,Manage your AWS services and resources in the PowerShell scripting environment
+477,AWS Tools for PowerShell Core,,Manage your AWS services and resources in the PowerShell Core scripting environment
+478,AWS Training and Certification,,Build your AWS Cloud knowledge
+479,AWS Transfer Family,Migration,"Fully managed SFTP, FTPS, and FTP service"
+480,AWS Transit Gateway,Networking & Content Delivery,Easily scale VPC and account connections
+481,AWS Trusted Advisor,Management & Governance,Optimize performance and security
+482,AWS VPN,Networking & Content Delivery,Securely access your network resources
+483,AWS VPN CloudHub,,
+484,AWS WAF (AWS Web Application Firewall),"Security, Identity, & Compliance",Filter malicious web traffic
+485,AWS WAF Bot Control,,
+486,AWS WAF Classic (AWS Web Application Firewall Classic),,
+487,AWS Wavelength,Compute,Deliver ultra-low latency applications for 5G devices
+488,AWS Well-Architected Tool,Architecture Strategy,Review and improve your workloads
+489,AWS X-Ray,Developer Tools,Analyze and debug your applications
+490,Babelfish for Aurora PostgreSQL,,
+491,Contact Lens for Amazon Connect,Business Applications,Real-time contact center analytics powered by machine learning
+492,Database Query Metadata Service,,
+493,Elastic Fabric Adapter,,Run HPC and ML applications at scale
+494,Elastic Load Balancing (ELB),Networking & Content Delivery,Distribute incoming traffic across multiple targets
+495,Fleet Hub for AWS IoT Device Management,,Build standalone web applications for monitoring the health of your device fleets
+496,Migration Evaluator (formerly TSO Logic),Migration,Create a business case for cloud migration
+497,NICE DCV,,Deliver high-performance remote desktop and application streaming
+498,NICE EnginFrame,,Integrate on-premises and AWS high performance computing environments
+499,Open 3D Engine (O3DE),Game Tech,Build games and 3D simulations with O3DE
+500,Porting Assistant for .NET,,Insight and assistance for porting from .NET Framework to .NET Core
+501,PyTorch on AWS,Machine Learning,Flexible open-source machine learning framework
+502,Recycle Bin for Amazon EBS Snapshots,,Restore accidentally deleted EBS snapshots
+503,Red Hat OpenShift Service on AWS,Containers,Managed OpenShift in the cloud
+504,Reserved Instance (RI) Reporting,Cloud Financial Management,Dive deeper into your reserved instances (RIs)
+505,Savings Plans,Cloud Financial Management,Save up to 72% on compute usage with flexible pricing
+506,Service Quotas,,View and manage your quotas for AWS services from a central location
+507,TensorFlow on AWS,Machine Learning,Open-source machine intelligence library
+508,VMware Cloud on AWS,Compute,Build a hybrid cloud without custom hardware
+509,VMware Cloud on AWS Outposts,,VMware Cloud in your on-premises environments
