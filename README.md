@@ -1,86 +1,267 @@
-# How to collaborate on this project: 
+<div align="center">
 
-- [ ] Repository Fork
-- [ ] Clone the repository
-- [ ] Update the master branch
-- [ ] Create a branch
-- [ ] Make changes
-- [ ] Make a Pull Request
+  <img src="assets/logo.png" alt="logo" width="200" height="auto" />
+  <h1>Readme Template</h1>
+  
+  <p>
+    An README template for your projects!
+  </p>
 
-## 1.-Repository Fork
+<p>
+  <a href="https://github.com/julioaranajr/.github/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/julioaranajr/.github" alt="contributors" />
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/github/last-commit/julioaranajr/.github" alt="last update" />
+  </a>
+  <a href="https://github.com/julioaranajr/.github/network/members">
+    <img src="https://img.shields.io/github/forks/julioaranajr/.github" alt="forks" />
+  </a>
+  <a href="https://github.com/julioaranajr/.github/stargazers">
+    <img src="https://img.shields.io/github/stars/julioaranajr/.github" alt="stars" />
+  </a>
+  <a href="https://github.com/julioaranajr/.github/issues/">
+    <img src="https://img.shields.io/github/issues/julioaranajr/.github" alt="open issues" />
+  </a>
+  <a href="https://github.com/julioaranajr/.github/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/julioaranajr/.github.svg" alt="license" />
+  </a>
+</p>
+   
+<h4>
+    <a href="https://github.com/julioaranajr/.github/">View Demo</a>
+  <span> · </span>
+    <a href="https://github.com/julioaranajr/.github">Documentation</a>
+  <span> · </span>
+    <a href="https://github.com/julioaranajr/.github/issues/">Report Bug</a>
+  <span> · </span>
+    <a href="https://github.com/julioaranajr/.github/issues/">Request Feature</a>
+  </h4>
+</div>
 
-**IMPORTAN:** The first step is to "Fork" the repository.
+<br />
 
-A fork is a copy of a repository that you manage. Forks let you make changes to a 
-project without affecting the original repository. You can fetch updates from or 
-submit changes to the original repository with pull requests.
+# Table of Contents
 
-Forking a repository is similar to copying a repository, with two major differences:
+- [About the Project](#star2-about-the-project)
+  * [Screenshots](#camera-screenshots)
+  * [Tech Stack](#space_invader-tech-stack)
+  * [Features](#dart-features)
+  * [Color Reference](#art-color-reference)
+  * [Environment Variables](#key-environment-variables)
+- [Getting Started](#toolbox-getting-started)
+  * [Prerequisites](#bangbang-prerequisites)
+  * [Installation](#gear-installation)
+  * [Running Tests](#test_tube-running-tests)
+  * [Run Locally](#running-run-locally)
+  * [Deployment](#triangular_flag_on_post-deployment)
+- [Usage](#eyes-usage)
+- [Roadmap](#compass-roadmap)
+- [Contributing](#wave-contributing)
+  * [Code of Conduct](#scroll-code-of-conduct)
+- [FAQ](#grey_question-faq)
+- [License](#warning-license)
+- [Contact](#handshake-contact)
+- [Acknowledgements](#gem-acknowledgements)
 
-* You can use a pull request to suggest changes from your user-owned fork to the original repository in its GitHub instance, also known as the upstream repository.
-* You can bring changes from the upstream repository to your local fork by synchronizing your fork with the upstream repository.
+## About the Project
 
+### Screenshots
 
+<div align="center"> 
+  <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" />
+</div>
 
-## 2.- Clone the repository
+### Tech Stack
 
-After having the repository in our account, select the repository address "SSH or HTTP" and clone:
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://www.typescriptlang.org/">Typescript</a></li>
+    <li><a href="https://nextjs.org/">Next.js</a></li>
+    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="https://tailwindcss.com/">TailwindCSS</a></li>
+  </ul>
+</details>
 
-```sh
-$ https://github.com/julioaranajr/aws_services_db.git
+<details>
+  <summary>Server</summary>
+  <ul>
+    <li><a href="https://www.typescriptlang.org/">Typescript</a></li>
+    <li><a href="https://expressjs.com/">Express.js</a></li>
+    <li><a href="https://go.dev/">Golang</a></li>
+    <li><a href="https://nestjs.com/">Nest.js</a></li>
+    <li><a href="https://socket.io/">SocketIO</a></li>
+    <li><a href="https://www.prisma.io/">Prisma</a></li>    
+    <li><a href="https://www.apollographql.com/">Apollo</a></li>
+    <li><a href="https://graphql.org/">GraphQL</a></li>
+  </ul>
+</details>
+
+<details>
+<summary>Database</summary>
+  <ul>
+    <li><a href="https://www.mysql.com/">MySQL</a></li>
+    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+    <li><a href="https://redis.io/">Redis</a></li>
+    <li><a href="https://neo4j.com/">Neo4j</a></li>
+    <li><a href="https://www.mongodb.com/">MongoDB</a></li>
+  </ul>
+</details>
+
+<details>
+<summary>DevOps</summary>
+  <ul>
+    <li><a href="https://www.docker.com/">Docker</a></li>
+    <li><a href="https://www.jenkins.io/">Jenkins</a></li>
+    <li><a href="https://circleci.com/">CircleCLI</a></li>
+  </ul>
+</details>
+
+### Features
+
+- Feature 1
+- Feature 2
+- Feature 3
+
+### Color Reference
+
+| Color             | Hex                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+| Primary Color | ![#222831](https://via.placeholder.com/10/222831?text=+) #222831 |
+| Secondary Color | ![#393E46](https://via.placeholder.com/10/393E46?text=+) #393E46 |
+| Accent Color | ![#00ADB5](https://via.placeholder.com/10/00ADB5?text=+) #00ADB5 |
+| Text Color | ![#EEEEEE](https://via.placeholder.com/10/EEEEEE?text=+) #EEEEEE |
+| Background Color | ![#393E46](https://via.placeholder.com/10/393E46?text=+) #393E46 |
+
+### Environment Variables
+
+To run this project, you will need to add the following environment variables to your .env file
+
+## Getting Started
+
+This is an example of how you may give instructions on setting up your project locally. To get a local copy up and running follow these simple steps.
+
+### Prerequisites
+
+This project uses Yarn as package manager
+
+```bash
+ npm install --global yarn
 ```
 
-Inside the folder it generates, check the repository URL:
+### Installation
 
-```sh
-$ git remote -v
+Install my-project with npm
+
+```bash
+  yarn install my-project
+  cd my-project
 ```
 
-### Before making modifications add the URL of the original repository of the project:
+### Running Tests
 
-```sh
-$ git remote add upstream https://github.com/julioaranajr/aws_services_db.git(Forked)
+To run tests, run the following command
+
+```bash
+  yarn test test
 ```
 
-### Check
+### Run Locally
 
-```sh
-$ git remote -v
+Clone the project
+
+```bash
+  git clone https://github.com/julioaranajr/.github.git
 ```
 
+Go to the project directory
 
-## 3.- Update the Master branch
-Before starting work, get the latest changes from the Original Repo:
-
-```sh
-$ git pull -r upstream master
+```bash
+  cd my-project
 ```
 
-### Create a Branch
-To create a branch use the git "checkout" option:
+Install dependencies
 
-```sh
-$ git checkout -b feature-branch-name
+```bash
+  yarn install
 ```
 
+Start the server
 
-## 4.- Make changes
-
-### Make all the changes you want to make to the project.
-
-### Add the files and commit
-
-After committing, push to our repository indicating the branch we have created.
-
-```sh
-$ git push origin feature-branch-name
+```bash
+  yarn start
 ```
 
-### Make a Pull Request
+### Deployment
 
-Click on "Compare & Pull Request"
+To deploy this project run
+
+```bash
+  yarn deploy
+```
+
+## Usage
+
+Use this space to tell a little more about your project and how it can be used. Show additional screenshots, code samples, demos or link to other resources.
 
 
-* Write Pull Request changes.
+```javascript
+import Component from 'my-project'
 
-If everything is ok, send with the "Send Pull Request" button. Wait for the repository duel to review it, accept it, and merge it into the appropriate branch.
+function App() {
+  return <Component />
+}
+```
+
+## Roadmap
+
+* [x] Todo 1
+* [ ] Todo 2
+
+## Contributing
+
+<a href="https://github.com/julioaranajr/.github/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=julioaranajr/.github" />
+</a>
+
+Contributions are always welcome!
+
+See `contributing.md` for ways to get started.
+
+### Code of Conduct
+
+Please read the [Code of Conduct](CODE_OF_CONDUCT.md)
+
+
+## FAQ
+
+- Question 1
+
+  + Answer 1
+
+- Question 2
+
+  + Answer 2
+
+## License
+
+Distributed under the no License. See LICENSE.txt for more information.
+
+## Contact
+
+Julio Arana Jr. - [@julioaranajr](https://twitter.com/julioaranajr) - info@julioaranajr.com
+
+Project Link: [https://github.com/julioaranajr/.github](https://github.com/julioaranajr/.github)
+
+## Acknowledgements
+
+Use this section to mention useful resources and libraries that you have used in your projects.
+
+ - [Shields.io](https://shields.io/)
+ - [Awesome README](https://github.com/matiassingers/awesome-readme)
+ - [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#travel--places)
+ - [Readme Template](https://github.com/othneildrew/Best-README-Template)
+- [Contributor Covenant](https://www.contributor-covenant.org/)
+- [Choose an Open Source License](https://choosealicense.com)
+- [GitHub Pages](https://pages.github.com/)
