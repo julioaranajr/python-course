@@ -1,41 +1,39 @@
 <div align="center">
 
   <img src="assets/logo.png" alt="logo" width="200" height="auto" />
-  <h1>Readme Template</h1>
+  <h1>Python Course</h1>
   
   <p>
-    An README template for your projects!
+    Learning Python from scratch by Julio Arana Jr.
   </p>
 
 <p>
-  <a href="https://github.com/julioaranajr/.github/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/julioaranajr/.github" alt="contributors" />
+  <a href="https://github.com/julioaranajr/python-course/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/julioaranajr/python-course" alt="contributors" />
   </a>
   <a href="">
-    <img src="https://img.shields.io/github/last-commit/julioaranajr/.github" alt="last update" />
+    <img src="https://img.shields.io/github/last-commit/julioaranajr/python-course" alt="last update" />
   </a>
-  <a href="https://github.com/julioaranajr/.github/network/members">
-    <img src="https://img.shields.io/github/forks/julioaranajr/.github" alt="forks" />
+  <a href="https://github.com/julioaranajr/python-course/network/members">
+    <img src="https://img.shields.io/github/forks/julioaranajr/python-course" alt="forks" />
   </a>
-  <a href="https://github.com/julioaranajr/.github/stargazers">
-    <img src="https://img.shields.io/github/stars/julioaranajr/.github" alt="stars" />
+  <a href="https://github.com/julioaranajr/python-course/stargazers">
+    <img src="https://img.shields.io/github/stars/julioaranajr/python-course" alt="stars" />
   </a>
-  <a href="https://github.com/julioaranajr/.github/issues/">
-    <img src="https://img.shields.io/github/issues/julioaranajr/.github" alt="open issues" />
+  <a href="https://github.com/julioaranajr/python-course/issues/">
+    <img src="https://img.shields.io/github/issues/julioaranajr/python-course" alt="open issues" />
   </a>
-  <a href="https://github.com/julioaranajr/.github/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/julioaranajr/.github.svg" alt="license" />
+  <a href="https://github.com/julioaranajr/python-course/LICENSE">
+    <img src="https://img.shields.io/github/license/julioaranajr/python-course.svg" alt="license" />
   </a>
 </p>
    
 <h4>
-    <a href="https://github.com/julioaranajr/.github/">View Demo</a>
+    <a href="https://github.com/julioaranajr/python-course/fundamentals/">Fundamentals</a>
   <span> · </span>
-    <a href="https://github.com/julioaranajr/.github">Documentation</a>
+    <a href="https://github.com/julioaranajr/python-course/exercises/">Exercises</a>
   <span> · </span>
-    <a href="https://github.com/julioaranajr/.github/issues/">Report Bug</a>
-  <span> · </span>
-    <a href="https://github.com/julioaranajr/.github/issues/">Request Feature</a>
+    <a href="https://github.com/julioaranajr/python-course/resources/">Resources</a>
   </h4>
 </div>
 
@@ -43,206 +41,141 @@
 
 # Table of Contents
 
-- [About the Project](#star2-about-the-project)
-  * [Screenshots](#camera-screenshots)
-  * [Tech Stack](#space_invader-tech-stack)
-  * [Features](#dart-features)
-  * [Color Reference](#art-color-reference)
-  * [Environment Variables](#key-environment-variables)
-- [Getting Started](#toolbox-getting-started)
-  * [Prerequisites](#bangbang-prerequisites)
-  * [Installation](#gear-installation)
-  * [Running Tests](#test_tube-running-tests)
-  * [Run Locally](#running-run-locally)
-  * [Deployment](#triangular_flag_on_post-deployment)
-- [Usage](#eyes-usage)
-- [Roadmap](#compass-roadmap)
-- [Contributing](#wave-contributing)
-  * [Code of Conduct](#scroll-code-of-conduct)
-- [FAQ](#grey_question-faq)
-- [License](#warning-license)
-- [Contact](#handshake-contact)
-- [Acknowledgements](#gem-acknowledgements)
+- [About the Project](#about-the-repository)
+  - [Tech Stack](#tech-stack)
+  - [Features](#features)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+  - [Running Tests](#test_tube-running-tests)
+  - [Run Locally](#running-run-locally)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [Usage](#usage)
+- [Roadmap](#roadmap)
+- [Contributing](#contributing)
+- [Code of Conduct](#code-of-conduct)
+- [License](#license)
+- [Contact](#contact)
+- [Acknowledgements](#acknowledgements)
 
-## About the Project
+## About the Repository
 
-### Screenshots
-
-<div align="center"> 
-  <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" />
-</div>
+This repository contains the code for the Python Course by Julio Arana Jr. The course is designed to help you learn Python from scratch. The course is divided into multiple sections, each covering a different aspect of Python programming.
 
 ### Tech Stack
 
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://www.typescriptlang.org/">Typescript</a></li>
-    <li><a href="https://nextjs.org/">Next.js</a></li>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-    <li><a href="https://tailwindcss.com/">TailwindCSS</a></li>
-  </ul>
-</details>
+This project uses the following technologies:
 
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://www.typescriptlang.org/">Typescript</a></li>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-    <li><a href="https://go.dev/">Golang</a></li>
-    <li><a href="https://nestjs.com/">Nest.js</a></li>
-    <li><a href="https://socket.io/">SocketIO</a></li>
-    <li><a href="https://www.prisma.io/">Prisma</a></li>    
-    <li><a href="https://www.apollographql.com/">Apollo</a></li>
-    <li><a href="https://graphql.org/">GraphQL</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.mysql.com/">MySQL</a></li>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-    <li><a href="https://redis.io/">Redis</a></li>
-    <li><a href="https://neo4j.com/">Neo4j</a></li>
-    <li><a href="https://www.mongodb.com/">MongoDB</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>DevOps</summary>
-  <ul>
-    <li><a href="https://www.docker.com/">Docker</a></li>
-    <li><a href="https://www.jenkins.io/">Jenkins</a></li>
-    <li><a href="https://circleci.com/">CircleCLI</a></li>
-  </ul>
-</details>
+- Python version 3.10.12
+- Visual Studio Code
+- Notepad++ version 8.6.8
+- Markdown
+- HTML
 
 ### Features
 
-- Feature 1
-- Feature 2
-- Feature 3
-
-### Color Reference
-
-| Color             | Hex                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| Primary Color | ![#222831](https://via.placeholder.com/10/222831?text=+) #222831 |
-| Secondary Color | ![#393E46](https://via.placeholder.com/10/393E46?text=+) #393E46 |
-| Accent Color | ![#00ADB5](https://via.placeholder.com/10/00ADB5?text=+) #00ADB5 |
-| Text Color | ![#EEEEEE](https://via.placeholder.com/10/EEEEEE?text=+) #EEEEEE |
-| Background Color | ![#393E46](https://via.placeholder.com/10/393E46?text=+) #393E46 |
-
-### Environment Variables
-
-To run this project, you will need to add the following environment variables to your .env file
+- [**Fundamental Python Programming**]
+- [**Exercises and Examples**]
+- [**Resources, References and Methods**]
 
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally. To get a local copy up and running follow these simple steps.
+Start with the fundamentals of Python programming. Learn the basics of Python programming, including data types, functions, loops, and more.
+
+In the exercises section, you will find a collection of Python exercises to help you practice Python programming.
+
+In the resources section, you will find a collection of resources, references, and methods to help you learn Python programming.
 
 ### Prerequisites
 
-This project uses Yarn as package manager
+Before you begin, ensure you have met the following requirements:
 
-```bash
- npm install --global yarn
-```
+- You have a `<Windows/Linux/Mac>` machine.
+- You have installed the latest version of Python.
+- You have a text editor or IDE installed on your machine.
+- Visual Studio Code is recommended.
 
 ### Installation
 
-Install my-project with npm
+- To install Python, please follow the instructions of the official Python website.
+  - [Python Installation](https://www.python.org/downloads/)
 
-```bash
-  yarn install my-project
-  cd my-project
-```
+- To install Visual Studio Code, please follow the instructions on the official Visual Studio Code website.
+  - [Visual Studio Code Installation](https://code.visualstudio.com/)
 
-### Running Tests
+- Install the Python extension for Visual Studio Code.
+  - [Python Extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 
-To run tests, run the following command
-
-```bash
-  yarn test test
-```
-
-### Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/julioaranajr/.github.git
-```
-
-Go to the project directory
-
-```bash
-  cd my-project
-```
-
-Install dependencies
-
-```bash
-  yarn install
-```
-
-Start the server
-
-```bash
-  yarn start
-```
-
-### Deployment
-
-To deploy this project run
-
-```bash
-  yarn deploy
-```
+- Install the most popular python extension for Visual Studio Code.
+  - [Python Extension Pack](https://marketplace.visualstudio.com/items?itemName=donjayamanne.python-extension-pack)
 
 ## Usage
 
-Use this space to tell a little more about your project and how it can be used. Show additional screenshots, code samples, demos or link to other resources.
+Use this repository to learn Python programming from scratch. The course is designed to help you learn Python programming in a fun and interactive way.
 
+### Clone the Repository
 
-```javascript
-import Component from 'my-project'
+- Create a local Directory on your machine.<br>
+  - e.g. on Windows:<br>`C:\Users\username\Documents\PythonCourse`
+  - e.g. on Linux:<br> `~/Documents/PythonCourse`
+- Open a terminal or command prompt. in the directory you created.
+  ```bash
+  Windows:
+  cd C:\Users\username\Documents\PythonCourse
+  ```
+  ```bash
+  Linux or Mac:
+  cd ~/Documents/PythonCourse
+  ```
+- To clone the repository using `SSH`, run the following command:
 
-function App() {
-  return <Component />
-}
-```
+  ```bash
+  git clone git@github.com:julioaranajr/python-course.git
+  ```
+
+- To clone the repository using `HTTPS`, run the following command:
+
+  ```bash
+  git clone https://github.com/julioaranajr/python-course.git
+  ```
 
 ## Roadmap
 
-* [x] Todo 1
-* [ ] Todo 2
+- [x] Fundamental Python Programming
+- [ ] Exercises and Examples
+- [ ] Resources, References and Methods
+- [ ] Hands-on Projects
+- [ ] Have fun with Python
 
 ## Contributing
 
-<a href="https://github.com/julioaranajr/.github/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=julioaranajr/.github" />
+<a href="https://github.com/julioaranajr/python-course/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=julioaranajr/python-course"/>
 </a>
 
 Contributions are always welcome!
 
-See `contributing.md` for ways to get started.
+See [CONTRIBUTING](CONTRIBUTING.md) to find ways to get started.
 
-### Code of Conduct
+## Code of Conduct
+
+Code of Conduct is a set of rules and guidelines that outline the norms, rules, and responsibilities of an individual or organization.
 
 Please read the [Code of Conduct](CODE_OF_CONDUCT.md)
 
-
 ## FAQ
 
-- Question 1
+- What is Python?
 
-  + Answer 1
+  - Python is a high-level, interpreted, interactive, and object-oriented scripting language. Python is designed to be highly readable. It uses English keywords frequently where other languages use punctuation, and it has fewer syntactical constructions than other languages.
 
-- Question 2
+- Why Python?
 
-  + Answer 2
+  - Python is a versatile language that can be used for a wide range of applications. It is easy to learn and use, making it an ideal language for beginners. Python is also a powerful language that can be used for complex applications, making it a popular choice for experienced developers.
+
+- How can I learn Python?
+  
+  - There are many resources available for learning Python, including online tutorials, books, and courses. The Python website also has a wealth of information for beginners, including a tutorial and documentation.
 
 ## License
 
@@ -252,16 +185,18 @@ Distributed under the no License. See LICENSE.txt for more information.
 
 Julio Arana Jr. - [@julioaranajr](https://twitter.com/julioaranajr) - info@julioaranajr.com
 
-Project Link: [https://github.com/julioaranajr/.github](https://github.com/julioaranajr/.github)
+Project Link: [https://github.com/julioaranajr/python-course](https://github.com/julioaranajr/python-course)
 
 ## Acknowledgements
 
-Use this section to mention useful resources and libraries that you have used in your projects.
+Use this section to mention useful resources and libraries that I have used in this projects.
 
- - [Shields.io](https://shields.io/)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#travel--places)
- - [Readme Template](https://github.com/othneildrew/Best-README-Template)
-- [Contributor Covenant](https://www.contributor-covenant.org/)
-- [Choose an Open Source License](https://choosealicense.com)
-- [GitHub Pages](https://pages.github.com/)
+- [Python Documentation](https://docs.python.org/3/)
+- [w3schools](https://www.w3schools.com/python/)
+- [Real Python](https://realpython.com/)
+- [Geeks for Geeks](https://www.geeksforgeeks.org/)
+- [Stack Overflow](https://stackoverflow.com/)
+- [Awesome README](https://github.com/matiassingers/awesome-readme)
+- [Shields.io](https://shields.io/)
+- [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#travel--places)
+- [Readme Template](https://github.com/othneildrew/Best-README-Template)
