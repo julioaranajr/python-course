@@ -1,40 +1,31 @@
+# Readme First
+
+<h1 style="text-align: center;">Python Course</h1>
+
+<a name="readme-top"></a>
 <div align="center">
 
   <img src="assets/logo.png" alt="logo" width="200" height="auto" />
-  <h1>Python Course</h1>
   
   <p>
     Learning Python from scratch by Julio Arana Jr.
   </p>
 
-<p>
-  <a href="https://github.com/julioaranajr/python-course/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/julioaranajr/python-course" alt="contributors" />
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/github/last-commit/julioaranajr/python-course" alt="last update" />
-  </a>
-  <a href="https://github.com/julioaranajr/python-course/network/members">
-    <img src="https://img.shields.io/github/forks/julioaranajr/python-course" alt="forks" />
-  </a>
-  <a href="https://github.com/julioaranajr/python-course/stargazers">
-    <img src="https://img.shields.io/github/stars/julioaranajr/python-course" alt="stars" />
-  </a>
-  <a href="https://github.com/julioaranajr/python-course/issues/">
-    <img src="https://img.shields.io/github/issues/julioaranajr/python-course" alt="open issues" />
-  </a>
-  <a href="https://github.com/julioaranajr/python-course/LICENSE">
-    <img src="https://img.shields.io/github/license/julioaranajr/python-course.svg" alt="license" />
-  </a>
-</p>
-   
 <h4>
-    <a href="https://github.com/julioaranajr/python-course/fundamentals/">Fundamentals</a>
+    <a href="https://github.com/julioaranajr/python-course/blob/main/fundamentals/0_python_fundamentals.md">Fundamentals</a>
   <span> · </span>
-    <a href="https://github.com/julioaranajr/python-course/exercises/">Exercises</a>
+    <a href="https://github.com/julioaranajr/python-course/blob/main/exercises/exercises.md">Exercises</a>
   <span> · </span>
-    <a href="https://github.com/julioaranajr/python-course/resources/">Resources</a>
+    <a href="https://github.com/julioaranajr/python-course/blob/main/resources/resources.md">Resources</a>
   </h4>
+
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 </div>
 
 <br />
@@ -47,9 +38,6 @@
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-  - [Running Tests](#test_tube-running-tests)
-  - [Run Locally](#running-run-locally)
-  - [Deployment](#triangular_flag_on_post-deployment)
 - [Usage](#usage)
 - [Roadmap](#roadmap)
 - [Contributing](#contributing)
@@ -58,10 +46,14 @@
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
 
+[Back to the Top](#readme-first)
+
 ## About the Repository
 
 This repository contains the code for the Python Course by Julio Arana Jr. The course is designed to help you learn Python from scratch. The course is divided into multiple sections, each covering a different aspect of Python programming.
 
+[Back to the Top](#readme-first)
+  
 ### Tech Stack
 
 This project uses the following technologies:
@@ -72,11 +64,15 @@ This project uses the following technologies:
 - Markdown
 - HTML
 
+[Back to the Top](#readme-first)
+
 ### Features
 
 - [**Fundamental Python Programming**]
 - [**Exercises and Examples**]
 - [**Resources, References and Methods**]
+
+<dvi align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Getting Started
 
@@ -86,6 +82,8 @@ In the exercises section, you will find a collection of Python exercises to help
 
 In the resources section, you will find a collection of resources, references, and methods to help you learn Python programming.
 
+[Back to the Top](#readme-first)
+
 ### Prerequisites
 
 Before you begin, ensure you have met the following requirements:
@@ -94,6 +92,8 @@ Before you begin, ensure you have met the following requirements:
 - You have installed the latest version of Python.
 - You have a text editor or IDE installed on your machine.
 - Visual Studio Code is recommended.
+
+[Back to the Top](#readme-first)
 
 ### Installation
 
@@ -108,6 +108,8 @@ Before you begin, ensure you have met the following requirements:
 
 - Install the most popular python extension for Visual Studio Code.
   - [Python Extension Pack](https://marketplace.visualstudio.com/items?itemName=donjayamanne.python-extension-pack)
+
+[Back to the Top](#readme-first)
 
 ## Usage
 
@@ -139,13 +141,17 @@ Use this repository to learn Python programming from scratch. The course is desi
   git clone https://github.com/julioaranajr/python-course.git
   ```
 
+[Back to the Top](#readme-first)
+
 ## Roadmap
 
-- [x] Fundamental Python Programming
+- [x] Add Fundamental Python Programming
+- [x] Add Resources, References and Methods
+- [x] Have fun with Python
 - [ ] Exercises and Examples
-- [ ] Resources, References and Methods
 - [ ] Hands-on Projects
-- [ ] Have fun with Python
+
+[Back to the Top](#readme-first)
 
 ## Contributing
 
@@ -153,15 +159,19 @@ Use this repository to learn Python programming from scratch. The course is desi
   <img src="https://contrib.rocks/image?repo=julioaranajr/python-course"/>
 </a>
 
-Contributions are always welcome!
+**Contributions are always welcome!**
 
 See [CONTRIBUTING](CONTRIBUTING.md) to find ways to get started.
+
+[Back to the Top](#readme-first)
 
 ## Code of Conduct
 
 Code of Conduct is a set of rules and guidelines that outline the norms, rules, and responsibilities of an individual or organization.
 
 Please read the [Code of Conduct](CODE_OF_CONDUCT.md)
+
+[Back to the Top](#readme-first)
 
 ## FAQ
 
@@ -177,15 +187,24 @@ Please read the [Code of Conduct](CODE_OF_CONDUCT.md)
   
   - There are many resources available for learning Python, including online tutorials, books, and courses. The Python website also has a wealth of information for beginners, including a tutorial and documentation.
 
+[Back to the Top](#readme-first)
+
 ## License
 
-Distributed under the no License. See LICENSE.txt for more information.
+Distributed under the no License. 
+
+See [LICENSE](LICENSE) for more information.
+
+[Back to the Top](#readme-first)
 
 ## Contact
 
 Julio Arana Jr. - [@julioaranajr](https://twitter.com/julioaranajr) - info@julioaranajr.com
 
-Project Link: [https://github.com/julioaranajr/python-course](https://github.com/julioaranajr/python-course)
+Project Link: [https://github.com/users/julioaranajr/project/](https://github.com/users/julioaranajr/projects/5)
+
+<br>
+[Back to the Top](#readme-first)
 
 ## Acknowledgements
 
@@ -199,4 +218,21 @@ Use this section to mention useful resources and libraries that I have used in t
 - [Awesome README](https://github.com/matiassingers/awesome-readme)
 - [Shields.io](https://shields.io/)
 - [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#travel--places)
-- [Readme Template](https://github.com/othneildrew/Best-README-Template)
+- [Readme Template](https://github.com/julioaranajr/Best-README-Template)
+
+[Back to the Top](#readme-first)
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/julioaranajr/Best-README-Template.svg?style=for-the-badge
+[contributors-url]: https://github.com/julioaranajr/Best-README-Template/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/julioaranajr/Best-README-Template.svg?style=for-the-badge
+[forks-url]: https://github.com/julioaranajr/Best-README-Template/network/members
+[stars-shield]: https://img.shields.io/github/stars/julioaranajr/Best-README-Template.svg?style=for-the-badge
+[stars-url]: https://github.com/julioaranajr/Best-README-Template/stargazers
+[issues-shield]: https://img.shields.io/github/issues/julioaranajr/Best-README-Template.svg?style=for-the-badge
+[issues-url]: https://github.com/julioaranajr/Best-README-Template/issues
+[license-shield]: https://img.shields.io/github/license/julioaranajr/Best-README-Template.svg?style=for-the-badge
+[license-url]: https://github.com/julioaranajr/Best-README-Template/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/julioarana
