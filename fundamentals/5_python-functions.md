@@ -128,3 +128,7 @@ Functions are used to `organize code`, `reduce redundancy`, `improve readability
 - [Python Functions - GeeksforGeeks](https://www.geeksforgeeks.org/functions-in-python/)
 - [Python Functions - Tutorialspoint](https://www.tutorialspoint.com/python/python_functions.htm)
 - [Python Functions - DataCamp](https://www.datacamp.com/community/tutorials/functions-python-tutorial)
+
+<br>
+
+## << Previous: [Data Types](4_python_data_types.md) | Next: [Commands](6_python_commands.md) >>

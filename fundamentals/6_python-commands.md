@@ -75,3 +75,7 @@ Now that you have a good understanding of Python commands, you can start using t
 - [Python Tutorial](https://www.w3schools.com/python/)
 - [Python Exercises](https://www.w3resource.com/python-exercises/)
 - [Python Cheatsheet](https://www.pythoncheatsheet.org/)
+
+<br>
+
+## << Previous: [Functions](5_python-functions.md) | Next: [Keywords](7_python-keywords.md) >>

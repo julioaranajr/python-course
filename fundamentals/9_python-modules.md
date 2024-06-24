@@ -144,3 +144,9 @@ Python modules are a powerful feature of the Python programming language that al
 - [Python Modules in w3schools](https://www.w3schools.com/python/python_modules.asp)
 - [Python Modules in Programiz](https://www.programiz.com/python-programming/modules)
 - [Python Modules in GeeksforGeeks](https://www.geeksforgeeks.org/modules-python/)
+
+## What's Next?
+
+Now you learned the fundamentals of Python. Go to the Course Content to learn more about Python programming.
+
+## << Previous: [Buil-in-Functions](8_python-built-infunctions.md) | Next: [Course Content](00_COURSE_STRUCTURE.md) >>
