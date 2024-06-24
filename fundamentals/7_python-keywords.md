@@ -58,7 +58,7 @@ The following are some of the most commonly used Python keywords in alphabetical
 
 ## How to use Python keywords?
 
-
+Python keywords are used in the syntax of the language to define the structure of a Python program.
 
 example:
 
@@ -84,7 +84,7 @@ They are used to `define the syntax and structure` of the language and are an es
 
 By understanding and using Python keywords correctly, you can write `clear, concise, and readable code` that follows the conventions of the language. 
 
-Python has a total of `35 keywords` that are reserved for use by the language, and they must be used as specified in the Python syntax. 
+Python has a total of `35 keywords` that are reserved for use by the language, and they must be used as specified in the Python syntax.
 
 By avoiding the use of keywords as identifiers in your program, you can prevent `SyntaxErrors` and write code that is consistent with the conventions of the language.
 
@@ -95,9 +95,8 @@ By avoiding the use of keywords as identifiers in your program, you can prevent 
 - [Python Keywords (Programiz)](https://www.programiz.com/python-programming/keyword-list)
 - [Python Keywords (Real Python)](https://realpython.com/python-keywords/)
 - [Python Keywords (GeeksforGeeks)](https://www.geeksforgeeks.org/keywords-python-set-1/)
-- [Python Keywords (Tutorialspoint)](https://www.tutorialspoint.com/python/python_basic_syntax.htm)
-- [Python Keywords (DataCamp)](https://www.datacamp.com/community/tutorials/keywords-python)
 - [Python Keywords (PythonForBeginners)](https://www.pythonforbeginners.com/basics/keywords-in-python)
-- [Python Keywords (Python.org)](https://www.python.org/)
-- [Python Keywords (Python Insider)](https://pythoninsider.blogspot.com/2021/06/python-keywords.html)
-- [Python Keywords (Python.org Glossary)](https://docs.python.org/3/glossary.html)
+
+<br>
+
+## << Previous: [Commands](6_python-commands.md) | Next: [Buil-in-Functions](8_python-built-in-functions.md) >>

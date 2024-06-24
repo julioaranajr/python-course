@@ -10,3 +10,29 @@ Before you begin, ensure you have met the following requirements:
 - You have installed the latest version of Python.
 - You have a text editor or IDE installed on your machine.
 - Visual Studio Code is recommended.
+
+## Content
+
+- Syntax
+- Comments
+- Variables
+- Data Types
+- Numbers
+- Casting
+- Strings
+- Booleans
+- Operators
+- Lists
+- Tuples
+- Sets
+- Dictionaries
+- If...Else
+- While Loops
+- For Loops
+- Functions
+- Lambda
+- Arrays
+- Classes and Objects
+- Inheritance
+- Iterators
+- Modules

@@ -66,3 +66,6 @@ in the code
 - [Python Commenting Tips and Tricks](https://realpython.com/python-comments-guide/#commenting-tips-and-tricks)
 - [Python Comments](https://www.w3schools.com/python/python_comments.asp)
 
+<br>
+
+## << Previous: [Syntax](1_python_syntax.md) | Next: [Variables](3_python_variables.md) >>

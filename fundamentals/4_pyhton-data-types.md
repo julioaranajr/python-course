@@ -136,3 +136,7 @@ print(customer)  # {'name': 'Alice', 'age': 30, 'DOB': '01/01/1990', 'married': 
 - [Python Type Conversion](https://www.w3schools.com/python/python_casting.asp)
 - [Python Variables](https://www.w3schools.com/python/python_variables.asp)
 - [Python Data Structures](https://www.w3schools.com/python/python_lists.asp)
+
+<br>
+
+## << Previous: [Variables](3_python_variables.md) | Next: [Functions](5_python_functions.md) >>

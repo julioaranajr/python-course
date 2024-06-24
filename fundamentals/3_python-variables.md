@@ -145,3 +145,7 @@ Variables can store different types of data, such as integers, floats, strings, 
 - [Python Variables](https://www.w3schools.com/python/python_variables.asp)
 - [Python Naming Conventions](https://pep8.org/#naming-conventions)
 - [Python Variable Names](https://www.programiz.com/python-programming/variables-constants-literals)
+
+<br>
+
+## << Previous: [Comments](2_python_comments.md) | Next: [Data Types](4_python_data_types.md) >>

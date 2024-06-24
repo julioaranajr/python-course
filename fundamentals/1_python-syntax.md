@@ -13,34 +13,10 @@ Python syntax is designed to be simple and easy to read. The following are some 
 - Python is case-sensitive.
 - Python statements must end with a newline character.
 - Python uses indentation to define code blocks.
-- Python uses the `#` symbol to indicate comments.
-- Python uses the `:` symbol to indicate the start of a code block.
-- Python uses the `=` symbol to assign values to variables.
-- Python uses the `+`, `-`, `*`, `/`, and `%` symbols for arithmetic operations.
-- Python uses the `==`, `!=`, `>`, `<`, `>=`, and `<=` symbols for comparison operations.
-- Python uses the `and`, `or`, and `not` keywords for logical operations.
-- Python uses the `if`, `else`, and `elif` keywords for conditional statements.
-- Python uses the `for` and `while` keywords for loops.
-- Python uses the `def` keyword to define functions.
-- Python uses the `class` keyword to define classes.
-- Python uses the `import` keyword to import modules.
-- Python uses the `from` keyword to import specific parts of a module.
-- Python uses the `as` keyword to create an alias for a module or variable.
-- Python uses the `return` keyword to return a value from a function.
-- Python uses the `pass` keyword as a placeholder.
-- Python uses the `break` keyword to exit a loop.
-- Python uses the `continue` keyword to skip the rest of the code in a loop and start the next iteration.
-- Python uses the `global` keyword to declare a global variable.
-- Python uses the `nonlocal` keyword to declare a nonlocal variable.
-- Python uses the `assert` keyword to check if a condition is true.
-- Python uses the `try`, `except`, and `finally` keywords to handle exceptions.
-- Python uses the `raise` keyword to raise an exception.
-- Python uses the `with` keyword to simplify exception handling.
-- Python uses the `yield` keyword to return a generator.
 
-We will cover these syntax rules in more detail in the following sections.
+We will cover these syntax rules in more detail in the [course content](/course_content/01_python_syntax.md).
 
-## Example:
+## Example
 
 ```python
 # This is a comment
@@ -80,3 +56,7 @@ Python syntax refers to the set of rules that defines how a Python program will 
 - [Python Syntax Documentation](https://docs.python.org/3/reference/index.html)
 - [Python Style Guide](https://www.python.org/dev/peps/pep-0008/)
 - [Python Keywords](https://www.w3schools.com/python/python_ref_keywords.asp)
+
+<br>
+
+## << Previous: [Fundamental](0_python-fundamentals.md) | Next: [Python Comments](2_python_comments.md) >>

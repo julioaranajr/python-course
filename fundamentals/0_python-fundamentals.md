@@ -3,7 +3,7 @@
 What is Python?
 
 - Python is a high-level, interpreted, interactive, and - object-oriented scripting language.
-- Python is designed to be highly readable. 
+- Python is designed to be highly readable.
 - It uses English keywords frequently where other languages use punctuation.
 - Python is a great language for the beginner-level programmers and supports the development of a wide range of applications, from simple text processing to WWW browsers to games.
 
@@ -57,16 +57,22 @@ python
 
 Where to start?
 
-1. Python Syntax -------------------------->[Python Syntax](1_python_syntax.md)
-2. Python Comments ------------------------>[Python Comments](2_python_comments.md)
-3. Python Variables ----------------------->[Python Variables](3_python_variables.md)
-4. Python Data Types ---------------------->[Python Data Types](4_python_data_types.md)
-5. Python Functions ----------------------->[Python Functions](5_python_functions.md)
-6. Python Commands ------------------------>[Python Commands](6_python_commands.md)
-7. Python Keywords ------------------------>[Python Keywords](7_python_keywords.md)
-8. Python Built-in Functions -------------->[Python Built-in Functions](8_python_built-in-functions.md)
-9. Python Modules ------------------------->[Python Modules](9_python_modules.md)
+1. [Python Syntax](1_python_syntax.md)
+2. [Python Comments](2_python_comments.md)
+3. [Python Variables](3_python_variables.md)
+4. [Python Data Types](4_python_data_types.md)
+5. [Python Functions](5_python_functions.md)
+6. [Python Commands](6_python_commands.md)
+7. [Python Keywords](7_python_keywords.md)
+8. [Python Built-in Functions](8_python_built-in-functions.md)
+9. [Python Modules](9_python_modules.md)
 
 ## Summary
 
-Python is a high-level, interpreted, interactive, and object-oriented scripting language. It is designed to be highly readable and uses English keywords frequently where other languages use punctuation. Python is a great language for beginner-level programmers and supports the development of a wide range of applications, from simple text processing to WWW browsers to games.
+Python is a high-level, interpreted, interactive, and object-oriented scripting language. It is designed to be highly readable and uses English keywords frequently where other languages use punctuation.
+
+Python is a great language for beginner-level programmers and supports the development of a wide range of applications, from simple text processing to WWW browsers to games.
+
+<br>
+
+## << Previous: [Course Content](00_COURSE_STRUCTURE.md) | Next: [Python Syntax](1_python_syntax.md) >>

@@ -105,3 +105,7 @@ Python has a rich set of built-in functions that are available for use without t
 - [Python Built-in Functions - Programiz](https://www.programiz.com/python-programming/methods/built-in)
 - [Python Built-in Functions - Real Python](https://realpython.com/python-built-in-functions/)
 - [Python Built-in Functions - GeeksforGeeks](https://www.geeksforgeeks.org/python-built-in-functions/)
+
+<br>
+
+## << Previous: [Keywords](7_python-keywords.md) | Next: [Modules](9_python-modules.md) >>
